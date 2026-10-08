@@ -10,6 +10,7 @@ const compression = require('compression');
 const path = require('path');
 const fs = require('fs');
 const site = require('./src/data/site');
+const { handleEstimate } = require('./src/lib/estimate');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -69,38 +70,12 @@ app.post('/api/estimate', async (req, res) => {
     if (wantsJson) return res.status(status).json(body);
     return res.redirect(303, body.ok ? '/estimate-results?sent=1' : '/get-a-free-quote?error=1#estimate-form');
   };
-  const b = req.body || {};
-  if (b.website) return reply(200, { ok: true, message: 'Thanks — your request was received.' }); // honeypot
-  const clean = (v, n) => String(v || '').trim().slice(0, n);
-  const data = { name: clean(b.name, 100), phone: clean(b.phone, 30), email: clean(b.email, 120), city: clean(b.city, 60), service: clean(b.service, 80), details: clean(b.details, 2000) };
-  const problems = [];
-  if (!data.name) problems.push('name is required');
-  if (data.phone.replace(/\D/g, '').length < 10) problems.push('phone needs a 10-digit number');
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(data.email)) problems.push('email address is not valid');
-  if (!data.city) problems.push('choose the property city');
-  if (!data.service) problems.push('choose a service');
-  if (problems.length) return reply(400, { ok: false, error: 'Please fix: ' + problems.join('; ') + '.' });
-
   const now = Date.now();
   const hits = (recent.get(req.ip) || []).filter((t) => now - t < 600000);
   if (hits.length >= 5) return reply(429, { ok: false, error: `Too many requests. Please call ${site.phone}.` });
   recent.set(req.ip, hits.concat(now));
-
-  if (!process.env.FORM_WEBHOOK_URL) {
-    console.warn('[estimate] FORM_WEBHOOK_URL is not set; request NOT delivered:', { ...data, details: data.details.slice(0, 80) });
-    return reply(503, { ok: false, error: `Online requests are not connected yet. Please call ${site.phone} or email ${site.email}.` });
-  }
-  try {
-    const r = await fetch(process.env.FORM_WEBHOOK_URL, {
-      method: 'POST', headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ ...data, source: 'precisionpaintexperts.com', page: req.get('referer') || '', receivedAt: new Date().toISOString() })
-    });
-    if (!r.ok) throw new Error('webhook status ' + r.status);
-    return reply(200, { ok: true, message: 'Thanks! Your estimate request was sent. A crew lead will contact you to schedule the walkthrough.' });
-  } catch (e) {
-    console.error('[estimate] delivery failed:', e.message);
-    return reply(502, { ok: false, error: `We could not send your request. Please call ${site.phone}.` });
-  }
+  const { status, body } = await handleEstimate(req.body || {}, { referer: req.get('referer') || '' });
+  return reply(status, body);
 });
 
 // ---------- static files ----------

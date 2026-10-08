@@ -1,0 +1,171 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/services/:slug",
+      "destination": "/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gainesville",
+      "destination": "/locations/alachua-county/gainesville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ocala",
+      "destination": "/locations/marion-county/ocala",
+      "permanent": true
+    },
+    {
+      "source": "/locations/newberry",
+      "destination": "/locations/alachua-county/newberry",
+      "permanent": true
+    },
+    {
+      "source": "/locations/alachua",
+      "destination": "/locations/alachua-county/alachua",
+      "permanent": true
+    },
+    {
+      "source": "/locations/high-springs",
+      "destination": "/locations/alachua-county/high-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locations/archer",
+      "destination": "/locations/alachua-county/archer",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hawthorne",
+      "destination": "/locations/alachua-county/hawthorne",
+      "permanent": true
+    },
+    {
+      "source": "/locations/micanopy",
+      "destination": "/locations/alachua-county/micanopy",
+      "permanent": true
+    },
+    {
+      "source": "/locations/williston",
+      "destination": "/locations/levy-county/williston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/chiefland",
+      "destination": "/locations/levy-county/chiefland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dunnellon",
+      "destination": "/locations/marion-county/dunnellon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/belleview",
+      "destination": "/locations/marion-county/belleview",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lake-city",
+      "destination": "/locations/columbia-county/lake-city",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fort-white",
+      "destination": "/locations/columbia-county/fort-white",
+      "permanent": true
+    },
+    {
+      "source": "/locations/trenton",
+      "destination": "/locations/gilchrist-county/trenton",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.precisionpaintexperts.com"
+        }
+      ],
+      "destination": "https://precisionpaintexperts.com/:path*",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        }
+      ]
+    },
+    {
+      "source": "/(css|js)/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/agent/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex"
+        }
+      ]
+    },
+    {
+      "source": "/img/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2592000"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "(.*)\\.vercel\\.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
+  ]
+}
