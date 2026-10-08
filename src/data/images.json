@@ -1,0 +1,39 @@
+{
+  "cabinet-refinishing-painter": {
+    "width": 1280,
+    "height": 800,
+    "widths": [
+      480,
+      800,
+      1280
+    ]
+  },
+  "commercial-storefront-painting": {
+    "width": 1280,
+    "height": 800,
+    "widths": [
+      480,
+      800,
+      1280
+    ]
+  },
+  "florida-home-exterior-painting": {
+    "width": 1920,
+    "height": 1080,
+    "widths": [
+      480,
+      800,
+      1280,
+      1920
+    ]
+  },
+  "stucco-wall-paint-roller": {
+    "width": 1280,
+    "height": 800,
+    "widths": [
+      480,
+      800,
+      1280
+    ]
+  }
+}

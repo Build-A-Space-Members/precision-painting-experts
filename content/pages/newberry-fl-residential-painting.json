@@ -1,0 +1,51 @@
+{
+  "path": "/newberry-fl-residential-painting",
+  "type": "cityService",
+  "title": "Residential Painting in Newberry, FL | Home Painters",
+  "description": "Residential painting in Newberry, FL by a local crew: first repaints on new builds, careful prep on historic downtown homes, and a written warranty.",
+  "h1": "Residential Painting in Newberry, FL",
+  "heroIntro": "We are Newberry homeowners' neighbors, painting houses inside and out across Country Way, Newberry Oaks, Arbor Greens, the West End, and downtown.",
+  "keywords": {
+    "primary": "residential painting newberry fl",
+    "secondary": ["house painters newberry fl", "home painting newberry florida", "repaint new construction home newberry", "historic home painting newberry"],
+    "questions": ["When does a new-construction home in Newberry need its first repaint?", "Can you paint my Newberry home while we live in it?", "What warranty comes with residential painting?"]
+  },
+  "sections": [
+    {
+      "h2": "The first repaint on a newer Newberry home",
+      "body": [
+        "Many of the houses we paint in Newberry were built in the last several years. Builders understandably use economical coatings: flat wall paint that cannot be scrubbed, a single color throughout, and caulk that shrinks as the framing settles. Owners in Newberry Oaks, Arbor Greens, and Country Way often call us the first time they try to wipe a scuff off a hallway wall and take the paint with it.",
+        "A first repaint fixes that properly. We fill nail pops and settlement cracks, re-caulk open trim joints, and apply <strong>two full coats</strong> of a washable premium finish. Trim and doors move to a hard enamel. If you want to change colors, a third coat may be needed on dramatic changes."
+      ]
+    },
+    {
+      "h2": "Restored homes near downtown",
+      "body": [
+        "Restored historic homes around Downtown Newberry and the West End ask for the opposite approach. Here, the work is mostly preparation: scraping loose paint to a sound edge, sanding, replacing rotted sills or fascia, and priming bare wood so the finish coat has something to hold. Trim details get brushed and cut in by hand rather than buried under heavy spray."
+      ]
+    },
+    {
+      "h2": "Questions Newberry homeowners ask before hiring",
+      "body": [
+        "<strong>Will someone be watching the job?</strong> Yes. The crew lead who walked your house and wrote the estimate stays on the project until you sign the punch walk.",
+        "<strong>Who is actually on my property?</strong> Our own crews, licensed, bonded, and insured in Florida, with workers' comp on every member. We do not subcontract.",
+        "<strong>What happens to my furniture?</strong> Crews move and cover it, work one room at a time, and put things back. You can stay home throughout.",
+        "<strong>What if something is wrong at the end?</strong> It gets fixed before the job closes. Exteriors also carry a written workmanship warranty of up to 10 years."
+      ]
+    },
+    {
+      "h2": "Planning interior and exterior work together",
+      "body": [
+        "Most homeowners do not need everything at once. Interior work suits any season, so it is a natural summer project; exterior painting is best from October through May. We put both on one itemized estimate, so you can see the full picture and schedule each part when it makes sense. See the details for <a href=\"/newberry-fl-interior-painting\">interior painting in Newberry</a> and <a href=\"/newberry-fl-exterior-painting\">Newberry exterior repaints</a>, or read our general <a href=\"/residential-painting\">residential painting</a> overview.",
+        "Choosing colors for a whole house can be the hardest part, especially in an open floor plan. Our guide to <a href=\"/florida-interior-paint-colors\">Florida interior paint colors</a> is a good starting point, and our <a href=\"/locations/alachua-county/newberry\">Newberry painting contractor</a> page explains how we work across town."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "How long will a whole-house interior take in Newberry?", "a": "Typically three days to two weeks, depending on size, ceiling height, and how much repair the walls need." },
+    { "q": "Do I need to repaint the exterior of a new home?", "a": "Not usually right away, but sun-facing walls and caulk joints on newer homes are worth checking every few years. We will tell you honestly if it can wait." },
+    { "q": "Do you offer low-odor paint?", "a": "Yes. Low-VOC and eco-conscious options are available for every interior project." },
+    { "q": "Will I get leftover paint?", "a": "Yes. We leave labelled touch-up paint for each color used." }
+  ],
+  "related": ["/residential-painting", "/locations/alachua-county/newberry", "/newberry-fl-color-consultation", "/newberry-fl-cabinet-refinishing", "/florida-interior-paint-colors"]
+}

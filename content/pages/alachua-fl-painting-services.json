@@ -1,0 +1,86 @@
+{
+  "path": "/alachua-fl-painting-services",
+  "type": "cityService",
+  "title": "Painting Services in Alachua, FL | Full-Service",
+  "description": "Painting services in Alachua, FL for homes, Main Street shops, and acreage: interior, exterior, cabinets, staining, and washing under one written estimate.",
+  "h1": "Painting Services in Alachua, FL",
+  "heroIntro": "Interior, exterior, cabinets, decks, fences, washing, and commercial work in the city of Alachua, all handled by one crew under one written estimate.",
+  "keywords": {
+    "primary": "painting services alachua fl",
+    "secondary": [
+      "full service painting alachua",
+      "alachua fl painting and staining",
+      "painting and pressure washing alachua fl",
+      "home and business painting alachua florida"
+    ],
+    "questions": [
+      "Can one company handle painting, staining, and washing in Alachua?",
+      "Which painting service should I start with on my Alachua property?",
+      "Do you offer specialty services like drywall repair in Alachua?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Every painting service in one place",
+      "body": [
+        "Few Alachua projects involve just one surface. A home in Heritage Oaks might need its siding washed, a few fascia boards replaced, the body and trim repainted, and the back deck re-stained. A Main Street shop might need its front facade done after hours and its sales floor refreshed on a Sunday. Our <strong>painting services in Alachua, FL</strong> are set up so one crew handles all of it. You get one schedule and one written estimate that lists every surface.",
+        "This page is an overview of everything we offer. For the company itself and how we work in town, see our <a href=\"/locations/alachua-county/alachua\">Alachua painting contractor page</a>."
+      ]
+    },
+    {
+      "h2": "Find the right service for your property",
+      "body": [
+        "Most of our work in Alachua comes from three kinds of property, and each one tends to need a different mix of services:"
+      ],
+      "bullets": [
+        "<strong>Subdivision homes</strong> in Turkey Creek, Cinnamon Hills, or Savannah Station usually start with <a href=\"/alachua-fl-residential-painting\">a residential repaint</a> and add cabinets or a color consult.",
+        "<strong>Large-lot homes</strong> on the north end add deck, fence, and outbuilding work, so staining often costs as much as the painting.",
+        "<strong>Storefronts and Progress Park buildings</strong> need <a href=\"/alachua-fl-commercial-painting\">commercial scheduling</a> around open hours, and sometimes concrete or masonry coatings."
+      ]
+    },
+    {
+      "h2": "Specialty services beyond the core list",
+      "body": [
+        "Some Alachua jobs need work that falls outside a standard repaint, and our crews handle that too. We do drywall patching, popcorn ceiling removal (including dustless removal), wallpaper removal, stucco repair, garage floor epoxy and polyaspartic coatings, and decorative finishes like limewash and Venetian plaster. Waterproofing and anti-graffiti coatings are available for commercial walls. The full list is on our <a href=\"/specialty-services\">specialty services page</a>."
+      ]
+    },
+    {
+      "h2": "The same standards on every service",
+      "body": [
+        "Every service follows the same rules. Two full coats are the baseline, and we add a third for big color changes or thirsty surfaces. We use premium Sherwin-Williams and Benjamin Moore lines, and the estimate names the exact product. Sprayed surfaces get back-brushed or back-rolled where the coating needs to soak in. Low-VOC options are available for any interior. Every job ends with a punch walk you sign, and anything that isn't right gets fixed before we close out.",
+        "Combining services also helps the schedule. Washing happens before painting, so siding has time to dry. The deck gets stained after the railings are painted, not before, and the crew plans the order so one trade doesn't undo another's work."
+      ]
+    },
+    {
+      "h2": "Where to start",
+      "body": [
+        "If you're not sure what the property needs, book a walkthrough and let a crew lead point out what's failing. The estimate lists each service as its own line, so you can approve the urgent work now and schedule the rest later. If color is the open question, our <a href=\"/alachua-fl-color-consultation\">color consultation in Alachua</a> is a good first step."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get one estimate for painting, staining, and pressure washing?",
+      "a": "Yes. The written estimate lists each service separately, with its own surfaces, prep, products, and coats, so you can see what each part covers and approve them all at once or in stages."
+    },
+    {
+      "q": "Do you handle both homes and businesses in Alachua?",
+      "a": "We do. Residential work includes interiors, exteriors, cabinets, decks, and fences. Commercial work covers offices, retail, restaurants, warehouses, churches, schools, and multi-family buildings, with night and weekend scheduling available."
+    },
+    {
+      "q": "Is drywall repair included with interior painting?",
+      "a": "Minor patching is part of normal prep. Larger repairs, popcorn removal, and wallpaper removal are listed as separate line items so you know exactly what's being done."
+    },
+    {
+      "q": "Do I have to leave my house while you work?",
+      "a": "No. Crews move and protect furniture and work one room at a time, so most families stay home during interior projects."
+    }
+  ],
+  "related": [
+    "/services",
+    "/locations/alachua-county/alachua",
+    "/alachua-fl-residential-painting",
+    "/alachua-fl-commercial-painting",
+    "/specialty-services"
+  ]
+}

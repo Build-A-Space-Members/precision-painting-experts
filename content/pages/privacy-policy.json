@@ -1,0 +1,82 @@
+{
+  "path": "/privacy-policy",
+  "type": "core",
+  "title": "Privacy Policy | Precision Paint Experts",
+  "description": "How Precision Paint Experts collects, uses, and protects the contact and project details you share through our website and estimate request forms.",
+  "h1": "Privacy Policy",
+  "heroIntro": "Effective date: October 8, 2026. This policy explains what information this website collects, why we collect it, and what we do with it.",
+  "keywords": {
+    "primary": "precision paint experts privacy policy",
+    "secondary": [
+      "painting estimate form privacy",
+      "website data collection policy",
+      "how contact information is used"
+    ],
+    "questions": [
+      "What does Precision Paint Experts do with my estimate form information?",
+      "Does Precision Paint Experts sell personal information?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Who we are",
+      "body": [
+        "This website is operated by Precision Paint Experts, LLC, a painting contractor based in Newberry, FL 32669. In this policy, \"we,\" \"us,\" and \"our\" mean Precision Paint Experts, LLC. \"You\" means anyone who visits the site or contacts us through it."
+      ]
+    },
+    {
+      "h2": "Information you give us",
+      "body": [
+        "When you use our <a href=\"/get-a-free-quote\">estimate request form</a> or <a href=\"/contact-us\">contact form</a>, we collect the details you enter: your name, email address, phone number, city, the service you're interested in, and any project description you write. If you call or email us, we keep the information you share in that conversation too.",
+        "Please don't put sensitive information in the project description, such as financial account numbers or government ID numbers. We don't need it to give you an estimate."
+      ]
+    },
+    {
+      "h2": "Information collected automatically",
+      "body": [
+        "Like most websites, this site may collect basic technical information when you visit. That can include your browser type, device type, approximate location based on IP address, the pages you view, and how you got to the site. We may use cookies and similar tools, including analytics services, to understand how visitors use the site and to improve it. You can block or delete cookies in your browser settings. The site will still work for browsing and sending a request."
+      ]
+    },
+    {
+      "h2": "How we use your information",
+      "body": [],
+      "bullets": [
+        "To respond to your message and schedule an estimate walkthrough",
+        "To prepare and send your written estimate and follow up about it",
+        "To schedule, carry out, and close out work you approve, including warranty service",
+        "To keep business records and meet legal or insurance requirements",
+        "To understand site traffic and improve our pages"
+      ]
+    },
+    {
+      "h2": "How we share information",
+      "body": [
+        "We don't sell your personal information. We share it only when needed to run our business. For example, we may use service providers that host this website, deliver form submissions and email, or provide analytics, and they handle data on our behalf. We may also disclose information if the law requires it, or to protect our rights, our clients, or the public."
+      ]
+    },
+    {
+      "h2": "How long we keep it and how we protect it",
+      "body": [
+        "We keep estimate requests and project records as long as reasonably needed to serve you, honor warranty terms, and meet our recordkeeping obligations. We use reasonable administrative and technical safeguards to protect what you send us. No website or email system is completely secure, though, so we can't guarantee absolute security."
+      ]
+    },
+    {
+      "h2": "Your choices",
+      "body": [
+        "You can ask us to update or correct your contact information, stop non-essential follow-up messages, or delete information we no longer need to keep. To make a request, email info@precisionpaintexperts.com or call (386) 854-7139 during business hours."
+      ]
+    },
+    {
+      "h2": "Children, links, and changes",
+      "body": [
+        "This site is meant for adults arranging painting work and isn't directed at children under 13. We don't knowingly collect their information. Links to other websites, such as paint manufacturers, follow those sites' own privacy policies. We may update this policy from time to time. When we do, we'll post the new version on this page with a revised effective date. See our <a href=\"/terms-and-conditions\">terms and conditions</a> for the rules on using this site."
+      ]
+    }
+  ],
+  "faqs": [],
+  "related": [
+    "/terms-and-conditions",
+    "/contact-us",
+    "/get-a-free-quote"
+  ]
+}

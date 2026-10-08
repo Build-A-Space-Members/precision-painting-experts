@@ -1,0 +1,59 @@
+{
+  "path": "/newberry-fl-pressure-washing",
+  "type": "cityService",
+  "title": "Pressure Washing in Newberry, FL | House & Driveway",
+  "description": "Pressure washing in Newberry, FL: soft wash for stucco, siding, and roofs; high pressure for driveways and pavers. Mildew killed, plants protected.",
+  "h1": "Pressure Washing in Newberry, FL",
+  "heroIntro": "Algae on the north wall, streaks where the sprinklers hit, and a gray driveway can make a Newberry home look older than it is. A proper wash brings it back.",
+  "keywords": {
+    "primary": "pressure washing newberry fl",
+    "secondary": ["soft wash newberry fl", "house washing newberry", "driveway cleaning newberry fl", "roof cleaning newberry", "stucco cleaning newberry"],
+    "questions": ["Do I need soft washing or pressure washing for my Newberry home?", "How often should a house be washed in North Central Florida?", "Is it safe to pressure wash stucco?"]
+  },
+  "sections": [
+    {
+      "h2": "What a Newberry house collects in a year",
+      "body": [
+        "Newberry's warm, humid climate is good for lawns and bad for walls. Within a year or two, many homes show a green or black film on shaded walls, dark streaks under eaves, stains where sprinklers hit the same patch every morning, and a yellow coat of pollen in spring. Driveways and walkways turn gray with mildew and tire marks.",
+        "None of that is just cosmetic. Living growth holds moisture against the coating, and that shortens the life of the paint underneath. Our guide to <a href=\"/mold-on-siding-guide\">mold and mildew on siding</a> explains why."
+      ]
+    },
+    {
+      "h2": "Low pressure where it counts",
+      "body": [
+        "We <strong>soft wash</strong> painted surfaces, stucco, roofs, screens, and wood: a cleaning solution that kills mildew and algae, applied at low pressure and rinsed gently. High pressure can force water behind siding, scar stucco, and fuzz wood fibers, so it is saved for <strong>concrete driveways, sidewalks, pavers, and pool decks</strong>, where the surface can take it.",
+        "Stucco on newer homes in Arbor Greens, Newberry Oaks, and Country Way cleans up well with a soft wash. Older wood siding near downtown gets the same gentle method with extra care around loose paint."
+      ]
+    },
+    {
+      "h2": "What's included",
+      "bullets": [
+        "Walls, eaves, soffits, and gutters' exterior faces",
+        "Roof soft washing on request",
+        "Driveways, walkways, patios, and pavers",
+        "Decks and fences ahead of staining",
+        "<strong>Eco-safe detergents and runoff control</strong>",
+        "Plants pre-wet and rinsed; outlets and fixtures protected"
+      ]
+    },
+    {
+      "h2": "Washing before painting vs. washing instead of painting",
+      "body": [
+        "If your paint is sound, a wash may be all you need for now, and it can extend the time until the next repaint. If the paint is chalky or peeling, washing becomes step one of an exterior project. Every <a href=\"/newberry-fl-exterior-painting\">exterior paint job in Newberry</a> includes washing and mildew treatment as part of prep.",
+        "Pollen season deserves its own approach; <a href=\"/clean-florida-pollen-stains\">how to clean Florida pollen stains</a> covers what works. For methods and equipment, see our main <a href=\"/pressure-washing\">pressure washing</a> page."
+      ]
+    },
+    {
+      "h2": "Booking a wash",
+      "body": [
+        "Since we are based in Newberry, washing is easy to schedule, and most homes are finished in a single day. Because the crew lead who quotes the job is a painter, you also get an honest read on the condition of your paint while we are there. HOA letters about dirty walls or driveways are a common reason Newberry owners call; a wash often takes care of it. See all of our local services on the <a href=\"/locations/alachua-county/newberry\">Newberry painting contractor</a> page."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "How often should I wash my house in Newberry?", "a": "Many homes benefit from a wash every year or two, sooner on shaded walls or where sprinklers spray the siding." },
+    { "q": "Is it safe to pressure wash stucco?", "a": "High pressure can damage stucco. We soft wash stucco with a mildew-killing cleaner and a gentle rinse." },
+    { "q": "Will washing harm my lawn and plants?", "a": "We pre-wet and rinse landscaping and use eco-safe detergents with runoff control." }
+  ],
+  "related": ["/pressure-washing", "/locations/alachua-county/newberry", "/newberry-fl-exterior-painting", "/newberry-fl-deck-staining", "/mold-on-siding-guide"]
+}

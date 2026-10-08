@@ -1,0 +1,59 @@
+{
+  "path": "/gainesville-fl-commercial-painting",
+  "type": "cityService",
+  "title": "Commercial Painting in Gainesville, FL | After Hours",
+  "description": "Commercial painting in Gainesville, FL for offices, retail, restaurants, multi-family, and HOA properties. Night and weekend crews, COI before mobilization.",
+  "h1": "Commercial Painting in Gainesville, FL",
+  "heroIntro": "Offices, storefronts, restaurants, apartment buildings, and community property in Gainesville, painted on a schedule that keeps your doors open.",
+  "keywords": {
+    "primary": "commercial painting gainesville fl",
+    "secondary": ["commercial painters gainesville", "office painting gainesville fl", "apartment painting gainesville", "hoa painting contractor gainesville", "retail painting gainesville"],
+    "questions": ["Can commercial painting in Gainesville be done at night or on weekends?", "Do you provide a certificate of insurance before starting?", "Do you paint apartment complexes in Gainesville?"]
+  },
+  "sections": [
+    {
+      "h2": "Commercial painting in a college town",
+      "body": [
+        "Gainesville's commercial work has its own rhythm. Multi-family buildings turn over around the academic calendar, restaurants and shops cannot close for a week, and offices want the work done without employees breathing paint fumes. We handle <strong>offices, retail and restaurants, warehouses and industrial buildings, churches and schools, multi-family housing, and HOA and property-management portfolios</strong>.",
+        "Because we use our own crews rather than subcontractors, the people you meet on the walkthrough are the people running the job."
+      ]
+    },
+    {
+      "h2": "Working around operating hours",
+      "body": [
+        "We plan commercial projects around your hours, including <strong>nights, weekends, and phased schedules</strong>. A restaurant dining room can be done after close and ready for the lunch rush. An office can be painted floor by floor. An apartment community can be phased building by building so residents are not all disrupted at once.",
+        "Low-VOC products are available for occupied interiors, and daily clean-up keeps the space usable each morning."
+      ]
+    },
+    {
+      "h2": "Paperwork before the first ladder goes up",
+      "bullets": [
+        "<strong>Certificate of insurance</strong> naming your entity, issued before mobilization",
+        "Licensed, bonded, and fully insured in Florida, with workers' comp on every crew member",
+        "Itemized written scope: surfaces, prep, products, coats, and schedule",
+        "No changes added without written approval",
+        "Product line named so manufacturer warranties are enforceable"
+      ]
+    },
+    {
+      "h2": "Interior and exterior commercial scopes",
+      "body": [
+        "Inside, typical work includes walls, doors, frames, and ceilings in corridors and common areas, often with harder-wearing enamels where carts and traffic scuff the paint. Outside, it is stucco, block, metal doors, railings, and trim, along with <a href=\"/concrete-masonry-painting\">concrete and masonry coatings</a> and, where needed, <a href=\"/anti-graffiti-coating\">anti-graffiti coatings</a> on exposed walls.",
+        "For multi-family and association work, our <a href=\"/multi-family-apartment-painting\">apartment painting</a> process covers unit turns and exterior cycles. Communities in Haile Plantation, Town of Tioga, and similar developments can also use our <a href=\"/hoa-property-management-painting\">HOA and property management painting</a> services."
+      ]
+    },
+    {
+      "h2": "Getting a commercial bid",
+      "body": [
+        "A crew lead walks the site, measures, photographs conditions, and returns an itemized proposal, usually within one business day. Most projects start one to three weeks after approval. If your timeline is tied to a lease-up date, an inspection, or a grand opening, tell the crew lead at the walkthrough so the schedule on the proposal is built backward from that date rather than forward from whenever a crew is free.",
+        "Commercial exteriors also benefit from a wash before paint; our <a href=\"/gainesville-fl-pressure-washing\">Gainesville pressure washing</a> crews clean storefronts, sidewalks, and dumpster pads. For homes and the rest of our city coverage, see our <a href=\"/locations/alachua-county/gainesville\">Gainesville location page</a>."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Can you paint our Gainesville office over a weekend?", "a": "Often, yes. Depending on size we can work nights and weekends or phase the job by floor or suite so the office stays open." },
+    { "q": "Will you name our association as additional insured?", "a": "Yes. A certificate of insurance naming your entity is available before mobilization for HOA, property management, and commercial clients." },
+    { "q": "Do you handle apartment turnovers between leases?", "a": "Yes. Multi-family work, including unit repaints and exterior repaints, is part of our commercial service." }
+  ],
+  "related": ["/commercial-painting", "/office-painting", "/retail-restaurant-painting", "/gainesville-fl-painting-services", "/hoa-licensed-painters-guide"]
+}

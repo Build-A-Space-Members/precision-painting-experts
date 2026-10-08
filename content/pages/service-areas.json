@@ -1,0 +1,91 @@
+{
+  "path": "/service-areas",
+  "type": "core",
+  "title": "Painting Service Area: 5 North Central FL Counties",
+  "description": "Precision Paint Experts paints homes and businesses in 15 cities across Alachua, Marion, Levy, Columbia, and Gilchrist counties. Find your town here.",
+  "h1": "Our North Central Florida Painting Service Area",
+  "heroIntro": "Five counties and 15 cities, plus the rural routes and lake communities in between. Every job is handled by our own crews.",
+  "keywords": {
+    "primary": "painting contractor service area north central florida",
+    "secondary": [
+      "painters in alachua county",
+      "marion county painting contractor",
+      "painters near gainesville and ocala",
+      "levy columbia and gilchrist county painters"
+    ],
+    "questions": [
+      "Which cities does Precision Paint Experts serve?",
+      "Do you paint homes outside city limits in North Central Florida?",
+      "How far do painting crews travel from Gainesville and Ocala?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Staying in one region on purpose",
+      "body": [
+        "We're based in Newberry and work only in North Central Florida. Our <strong>painting service area</strong> covers Alachua, Marion, Levy, Columbia, and Gilchrist counties, and Gainesville and Ocala are our two largest markets. Keeping that footprint tight is a choice. It keeps drive times short, lets us schedule most walkthroughs within 48 hours, and means a warranty visit years later is a quick local stop.",
+        "If your property is on a county road, in an unincorporated subdivision, or by a lake between two towns on our list, you're almost certainly covered. <a href=\"/contact-us\">Send us your address</a> and we'll confirm before setting up a visit."
+      ]
+    },
+    {
+      "h2": "Different towns, different houses",
+      "body": [
+        "Coverage is about more than distance. Each part of the region has its own typical buildings, and each type needs different prep and products. In Gainesville, older neighborhoods like Duckpond and Pleasant Street have original clapboard and detailed trim that needs careful scraping and the right primer. Our guide to <a href=\"/gainesville-historic-paint-colors\">historic Gainesville paint colors</a> covers how to choose colors for those homes.",
+        "In Marion County, we see more stucco, block, and long runs of fence on equestrian properties around Ocala. That's elastomeric coating work and stain jobs. Toward Chiefland, Trenton, and the Suwannee corridor, <strong>wood-frame farmhouses</strong> deal with heavy humidity and mildew, so soft washing and penetrating stains matter more. Lake City and Fort White add commercial buildings along the interstate, where after-hours scheduling is part of the job."
+      ]
+    },
+    {
+      "h2": "Counties and cities we cover",
+      "body": [
+        "Each county below links to its own page, and each city page shows the services available there. Here's the full list:"
+      ],
+      "bullets": [
+        "Alachua County: Gainesville, Newberry, Alachua, High Springs, Archer, Hawthorne, and Micanopy",
+        "Marion County: Ocala, Dunnellon, and Belleview",
+        "Levy County: Williston and Chiefland",
+        "Columbia County: Lake City and Fort White",
+        "Gilchrist County: Trenton"
+      ]
+    },
+    {
+      "h2": "Scheduling across the region",
+      "body": [
+        "Exterior painting goes best from October through May, and that's when calendars fill up across all five counties. In summer we still paint outside, starting early and watching dew point and radar so a fresh coat isn't hit by an afternoon storm. Interior jobs, cabinet refinishing, and drywall repair can be scheduled any time of year, wherever you live in our area.",
+        "Most projects start one to three weeks after you approve the estimate. For commercial properties in places like Ocala or Lake City, we can work nights and weekends to keep the business open. If you're comparing timing for a specific town, the city pages list local services, such as <a href=\"/ocala-fl-exterior-painting\">exterior painting in Ocala</a> or <a href=\"/lake-city-fl-commercial-painting\">commercial painting in Lake City</a>."
+      ]
+    },
+    {
+      "h2": "The same service in every town",
+      "body": [
+        "A home in Hawthorne gets the same process as an office in downtown Gainesville. A crew lead walks the property, measures, and photographs conditions. Then you get an itemized written estimate, usually within one business day, that names the product line and coat count. The full range of <a href=\"/services\">painting services</a> is available everywhere we work, including interior and exterior repaints, cabinets, deck staining, pressure washing, and specialty coatings.",
+        "To see what's nearby, start with <a href=\"/locations/alachua-county\">Alachua County painting services</a> or <a href=\"/locations/marion-county\">Marion County painting services</a>, or choose your city from the cards below."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which cities do you serve?",
+      "a": "Gainesville, Newberry, Alachua, High Springs, Archer, Hawthorne, Micanopy, Ocala, Dunnellon, Belleview, Williston, Chiefland, Lake City, Fort White, and Trenton."
+    },
+    {
+      "q": "Do you work outside city limits?",
+      "a": "Yes. Rural routes, lake communities, and unincorporated subdivisions inside our five counties are usually covered. Give us the address and we'll confirm."
+    },
+    {
+      "q": "Where is Precision Paint Experts based?",
+      "a": "We're based in Newberry, FL 32669, in Alachua County. That puts us within easy reach of both Gainesville and Ocala."
+    },
+    {
+      "q": "Is the estimate free in every county?",
+      "a": "Yes. Walkthroughs and written estimates are free, with no obligation, anywhere in our five-county service area."
+    }
+  ],
+  "related": [
+    "/locations/alachua-county",
+    "/locations/marion-county",
+    "/locations/levy-county",
+    "/locations/columbia-county",
+    "/locations/gilchrist-county",
+    "/gainesville-fl-painting-services"
+  ]
+}

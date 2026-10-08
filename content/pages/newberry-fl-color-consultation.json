@@ -1,0 +1,58 @@
+{
+  "path": "/newberry-fl-color-consultation",
+  "type": "cityService",
+  "title": "Color Consultation in Newberry, FL | Paint Palettes",
+  "description": "Color consultation in Newberry, FL: whole-home palettes for open floor plans, HOA-approved exteriors, and historic homes, tested with large drawdowns.",
+  "h1": "Color Consultation in Newberry, FL",
+  "heroIntro": "Moving past builder beige or choosing colors for a restored home near downtown? We help Newberry homeowners pick a palette and see it on their own walls before the crew starts.",
+  "keywords": {
+    "primary": "color consultation newberry fl",
+    "secondary": ["paint color help newberry", "whole house color palette newberry fl", "exterior paint colors newberry hoa", "interior color consultant newberry"],
+    "questions": ["How do I choose paint colors for an open floor plan?", "What exterior colors will my Newberry HOA approve?", "Can I see paint colors on my walls before committing?"]
+  },
+  "sections": [
+    {
+      "h2": "Beyond builder beige",
+      "body": [
+        "Many new homes in Arbor Greens, Newberry Oaks, and Country Way come with one neutral color on every wall. It is a safe start, but most owners eventually want rooms that feel like theirs. The challenge in an open floor plan is that the kitchen, family room, and hallway are all visible at once, so colors need to work as a group.",
+        "We plan <strong>whole-home palettes</strong>: usually one connecting neutral for shared spaces, then deeper or warmer colors where rooms have natural boundaries, such as bedrooms, offices, or a dining room."
+      ]
+    },
+    {
+      "h2": "Exterior color and HOA approval",
+      "body": [
+        "Exterior color choices in Newberry's newer subdivisions usually go through a community review. We help you choose within the approved range, coordinate body, trim, and door colors, and prepare <strong>full-size drawdowns</strong> to include with your request. Approval goes faster when the committee sees real samples rather than tiny chips.",
+        "Restored homes near Downtown Newberry and the West End usually have more freedom, and the right palette tends to respect the home's age and trim details. On those houses we often suggest picking the trim color first, since trim carries the architectural detail, and then choosing a body color that lets it stand out. Doors and shutters are where a bolder accent can go without overwhelming the house; our article on <a href=\"/paint-trim-shutters\">painting trim and shutters</a> shows how."
+      ]
+    },
+    {
+      "h2": "How a session works",
+      "bullets": [
+        "60-minute in-home or virtual session",
+        "Review of rooms, light, flooring, and fixed finishes like counters and tile",
+        "Large drawdowns placed on real walls",
+        "Sheen recommendations for each room and surface",
+        "Color matching from a chip, cabinet door, or leftover can"
+      ]
+    },
+    {
+      "h2": "Light changes everything",
+      "body": [
+        "Florida light is strong. A color that looks muted in the store can appear washed out on a sunny exterior wall, and warm whites can glow yellow in a west-facing room by late afternoon. Newer homes whose landscaping has not grown in get even more direct sun. That is why we check drawdowns at different times of day before you decide. For ideas, see <a href=\"/florida-interior-paint-colors\">interior paint colors for Florida homes</a>."
+      ]
+    },
+    {
+      "h2": "Turning colors into a project",
+      "body": [
+        "Once you have chosen, colors and product lines go onto the written estimate, and the crew lead who helped pick them oversees the work. Most consultations lead into <a href=\"/newberry-fl-interior-painting\">interior painting in Newberry</a> or a <a href=\"/newberry-fl-cabinet-refinishing\">kitchen cabinet refinish</a>. Learn more on our <a href=\"/color-consultation\">color consultation</a> page or the <a href=\"/locations/alachua-county/newberry\">Newberry painters</a> page."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Can you help me pick colors that meet my HOA's rules?", "a": "Yes. We work within your community's approved palette and provide drawdowns for the approval submission." },
+    { "q": "Do you offer virtual consultations?", "a": "Yes. Sessions can be in-home or virtual, though seeing drawdowns on your own walls is the most reliable test." },
+    { "q": "Can you match a color I already have?", "a": "Yes. We match from a chip, a cabinet door, or a leftover can." },
+    { "q": "Should every room in an open floor plan be the same color?", "a": "Not necessarily. A shared neutral in connected spaces keeps things calm, while bedrooms, offices, and dining rooms with clear boundaries can carry their own colors." }
+  ],
+  "related": ["/color-consultation", "/interior-painters-color-consult", "/locations/alachua-county/newberry", "/newberry-fl-residential-painting", "/florida-interior-paint-colors"]
+}

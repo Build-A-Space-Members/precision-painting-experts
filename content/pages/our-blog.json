@@ -1,0 +1,86 @@
+{
+  "path": "/our-blog",
+  "type": "core",
+  "title": "Florida Painting Blog: Prep Tips & How-To Guides",
+  "description": "Florida house painting tips on humidity, pollen, sun fade, stucco cracks, cabinets, drywall, decks, and epoxy floors from a North Central Florida painter.",
+  "h1": "Florida House Painting Tips and Guides",
+  "heroIntro": "Practical advice on paint, stain, and coatings for North Central Florida homes, from the crews who do this work every week.",
+  "keywords": {
+    "primary": "florida house painting tips blog",
+    "secondary": [
+      "painting advice for humid climates",
+      "north central florida home maintenance guides",
+      "exterior paint problems florida",
+      "diy painting tips florida"
+    ],
+    "questions": [
+      "Why does paint fail faster in Florida?",
+      "What causes paint to peel or bubble in a humid house?",
+      "When should I call a painter instead of doing it myself?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Painting advice for a climate that's hard on paint",
+      "body": [
+        "Most painting advice online assumes a dry, mild climate. This blog is for houses in Gainesville, Ocala, and the towns around them, where humidity stays high, storms build most summer afternoons, the sun bleaches south- and west-facing walls, and oak pollen coats everything each spring. These <strong>Florida house painting tips</strong> come from what we see on real walkthroughs and jobs.",
+        "Each guide follows the same approach. It describes what you're seeing, explains the likely cause, and then covers the repair and the upkeep that prevents a repeat. When a fix is reasonable for a homeowner, we say so. When it needs ladders, special equipment, or a moisture problem solved first, we say that too."
+      ]
+    },
+    {
+      "h2": "Start with the problem in front of you",
+      "body": [
+        "Most people find this blog by searching for a symptom. Here are a few common ones and where to start:"
+      ],
+      "bullets": [
+        "Paint peeling or bubbling indoors: start with why <a href=\"/humidity-paint-peeling\">humidity causes interior paint to peel</a>",
+        "Black streaks or green film on siding: read the <a href=\"/mold-on-siding-guide\">guide to mold and mildew on siding</a>",
+        "Cracks spreading across stucco: see <a href=\"/hide-stucco-cracks-guide\">how to tell cosmetic stucco cracks from structural ones</a>",
+        "Garage coating lifting under the tires: read about <a href=\"/garage-epoxy-peeling-fix\">why garage epoxy peels and how to fix it</a>",
+        "Gray, splintering fence boards: see how to <a href=\"/treat-sun-damaged-wood-fence-alachua\">restore a sun-damaged wood fence</a>"
+      ]
+    },
+    {
+      "h2": "Topics we cover",
+      "body": [
+        "Exterior articles cover how long paint really lasts here, how weather limits when a crew can spray, pollen stains, hidden moisture behind siding, and cracked paint on window frames. Interior articles cover choosing colors that work in bright Florida light, picking the right sheen for each room, fixing bubbling drywall paint, and removing wallpaper or popcorn ceilings safely. For kitchens, there's advice on painting oak cabinets so the grain doesn't show through and on deciding between refinishing and replacing.",
+        "For boards and managers, our <a href=\"/hoa-licensed-painters-guide\">HOA guide to hiring licensed painters</a> covers the paperwork to ask for before a crew arrives. Homeowners planning ahead should read the <a href=\"/north-central-florida-exterior-care\">year-round exterior care schedule for North Central Florida</a>."
+      ]
+    },
+    {
+      "h2": "Reading a guide versus hiring the job out",
+      "body": [
+        "Plenty of small jobs are fine to do yourself, like washing pollen off a porch, touching up a scuffed hallway, or giving a weathered fence a fresh coat of stain. Our guides walk you through those. Other jobs carry real risk. Ceilings put up before the mid-1980s should be tested before anyone scrapes them. Second-story work needs proper staging. A water stain on drywall usually means a leak that has to be fixed before any patch will hold.",
+        "When a guide says a problem needs a professional, it explains why, so you can make an informed decision and know what to ask any contractor you call."
+      ]
+    },
+    {
+      "h2": "One idea runs through every guide",
+      "body": [
+        "In this climate, most paint failures come back to <strong>moisture, UV, or prep that got skipped</strong>. Premium products from Sherwin-Williams and Benjamin Moore help, but even the best coating won't stick to a dirty, chalky, or damp surface. That's why so many of these articles focus on washing, scraping, caulking, and priming instead of picking the paint.",
+        "If you'd rather have someone look at the problem in person, <a href=\"/get-a-free-quote\">request a free estimate</a>. A crew lead will diagnose it on site and write up the repair. The full list of articles is below."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who writes these articles?",
+      "a": "They're written from the field experience of the Precision Paint Experts team, a locally owned painting contractor working across North Central Florida."
+    },
+    {
+      "q": "Can I do these repairs myself?",
+      "a": "Some, yes. Each guide notes which steps are reasonable for a homeowner and which ones need a licensed contractor, height access, or special equipment."
+    },
+    {
+      "q": "Can you look at my specific problem?",
+      "a": "Yes. Request a free estimate and a crew lead will come look at the problem, take moisture readings if needed, and send a written repair and painting scope."
+    }
+  ],
+  "related": [
+    "/exterior-paint-lifespan-florida",
+    "/weather-effects-house-painting-florida",
+    "/paint-finish-for-any-room",
+    "/our-faq",
+    "/services"
+  ]
+}

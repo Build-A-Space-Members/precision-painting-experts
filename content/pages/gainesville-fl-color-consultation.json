@@ -1,0 +1,59 @@
+{
+  "path": "/gainesville-fl-color-consultation",
+  "type": "cityService",
+  "title": "Color Consultation in Gainesville, FL | Drawdowns",
+  "description": "Color consultation in Gainesville, FL: whole-home palettes, historic-district exteriors, and HOA approvals, tested with full-size drawdowns on your walls.",
+  "h1": "Color Consultation in Gainesville, FL",
+  "heroIntro": "A color that looks soft in the store can glare on a west wall in Gainesville. We test palettes on your own walls, in your own light, before a single gallon is ordered.",
+  "keywords": {
+    "primary": "color consultation gainesville fl",
+    "secondary": ["paint color consultant gainesville", "exterior color selection gainesville fl", "historic house colors gainesville", "hoa paint color approval gainesville"],
+    "questions": ["How do I pick exterior colors for a historic Gainesville home?", "Why does paint look different on my wall than on the chip?", "Can you help me get HOA approval for new paint colors?"]
+  },
+  "sections": [
+    {
+      "h2": "Why Florida light changes the color you picked",
+      "body": [
+        "Strong overhead sun washes out exterior colors, so a mid-tone often reads several shades lighter on a south or west elevation. Indoors, light filtered through trees and screened porches pushes colors green, while a west-facing room can turn warm whites almost yellow by late afternoon. A two-inch chip under store lighting tells you very little about any of that.",
+        "That is why we use <strong>full-size drawdowns</strong> placed on your actual walls and checked at different times of day."
+      ]
+    },
+    {
+      "h2": "Historic districts versus planned communities",
+      "body": [
+        "In the <strong>Duckpond and Pleasant Street</strong> districts, owners often want a palette that respects the age of the house: a body color, a trim color, and an accent for doors or shutters that would look at home on the street. Our article on <a href=\"/gainesville-historic-paint-colors\">historic paint colors in Gainesville</a> is a useful primer before the visit.",
+        "In Haile Plantation, Town of Tioga, and other communities with color guidelines, the job is different. We help you choose within the approved range, match existing trim, and produce drawdowns that can go into an approval request."
+      ]
+    },
+    {
+      "h2": "What a consultation covers",
+      "bullets": [
+        "Walk-through of the rooms or elevations being painted",
+        "<strong>Whole-home palette coordination</strong> so rooms flow into each other",
+        "Sheen recommendations by room and surface",
+        "Color matching from a chip, a cabinet door, or a leftover can",
+        "Large drawdowns on real walls, in your light",
+        "Available in-home or as a virtual session"
+      ]
+    },
+    {
+      "h2": "Interiors: making rooms connect",
+      "body": [
+        "Open plans in newer Gainesville homes need colors that work together from every sightline, while older homes with separate rooms allow more contrast. We usually anchor a palette with one whole-house neutral, then add deeper colors where rooms are clearly separated. For inspiration, see <a href=\"/florida-interior-paint-colors\">interior paint colors that work in Florida</a>."
+      ]
+    },
+    {
+      "h2": "From palette to paint",
+      "body": [
+        "Your selected colors and products go directly onto the written estimate, so nothing gets lost between the consult and the crew. The same crew lead who helped narrow the palette is on site during the job, which means the person checking the first coat already knows which drawdown you approved and why. If a color still looks wrong once a full wall is covered, that is the moment to say so, before the second coat goes on.",
+        "Colors are only part of a durable finish; see our general <a href=\"/color-consultation\">color consultation service</a> for how product and sheen choices fit in, or browse everything we do on the <a href=\"/locations/alachua-county/gainesville\">Gainesville painters page</a>. Most clients pair a consultation with an <a href=\"/gainesville-fl-exterior-painting\">exterior repaint</a> or <a href=\"/gainesville-fl-interior-painting\">interior painting in Gainesville</a>."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Do you offer virtual color consultations?", "a": "Yes. Sessions can be in-home or virtual, though drawdowns on your own walls give the most reliable result." },
+    { "q": "Can you match a color I already have?", "a": "Yes. We can match from a paint chip, a cabinet door, or a leftover can." },
+    { "q": "Will you help with my HOA's paint approval?", "a": "Yes. We can choose colors within your community's approved palette and provide drawdowns to support your submission." }
+  ],
+  "related": ["/color-consultation", "/interior-painters-color-consult", "/locations/alachua-county/gainesville", "/gainesville-fl-residential-painting", "/gainesville-historic-paint-colors"]
+}

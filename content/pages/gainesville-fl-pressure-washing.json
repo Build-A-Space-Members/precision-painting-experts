@@ -1,0 +1,58 @@
+{
+  "path": "/gainesville-fl-pressure-washing",
+  "type": "cityService",
+  "title": "Pressure Washing in Gainesville, FL | Soft Wash Too",
+  "description": "Pressure washing and soft washing in Gainesville, FL for siding, stucco, roofs, drives, and pavers. Mildew and algae treated, landscaping protected.",
+  "h1": "Pressure Washing in Gainesville, FL",
+  "heroIntro": "Green stucco, black streaks under the eaves, and a driveway gone gray: we match the pressure and the cleaner to the surface, so the dirt comes off and the house does not.",
+  "keywords": {
+    "primary": "pressure washing gainesville fl",
+    "secondary": ["soft washing gainesville", "house washing gainesville fl", "driveway pressure washing gainesville", "roof soft wash alachua county", "mildew removal siding gainesville"],
+    "questions": ["What is the difference between soft washing and pressure washing?", "Is pressure washing safe for stucco and painted siding?", "Should I pressure wash before painting my Gainesville house?"]
+  },
+  "sections": [
+    {
+      "h2": "Soft wash or pressure wash: matching the method to the surface",
+      "body": [
+        "Not everything should be blasted. <strong>Soft washing</strong> uses low pressure and a cleaning solution that kills mildew and algae at the root, then rinses gently. It is the right method for roofs, painted siding, stucco, screens, and older wood. <strong>High-pressure washing</strong> is reserved for hard, durable surfaces such as concrete drives, paver patios, and pool decks, where embedded grime needs mechanical force.",
+        "Using high pressure on the wrong surface can drive water behind siding, etch stucco, and raise wood grain. That damage often shows up later as paint failure."
+      ]
+    },
+    {
+      "h2": "What we clean around Gainesville homes",
+      "bullets": [
+        "Painted wood and fiber-cement siding on older homes and bungalows",
+        "Stucco walls in newer neighborhoods such as Haile Plantation and Town of Tioga",
+        "Roofs, with a soft wash rather than pressure",
+        "<strong>Driveways, walkways, and pavers</strong> with high pressure",
+        "Decks and fences ahead of staining",
+        "Commercial storefronts, sidewalks, and dumpster pads"
+      ]
+    },
+    {
+      "h2": "Why Gainesville siding turns green",
+      "body": [
+        "Mildew and algae grow wherever a surface stays damp. North walls, areas under trees, and stucco hit daily by sprinklers are the usual suspects. Pollen season adds a sticky film that holds even more moisture. Washing off the green is only half the job; the cleaner has to kill the growth or it is back within months. Our guide on <a href=\"/mold-on-siding-guide\">mold and mildew on siding</a> explains what you are seeing, and <a href=\"/clean-florida-pollen-stains\">cleaning Florida pollen stains</a> covers the yellow film each spring."
+      ]
+    },
+    {
+      "h2": "Plants, runoff, and the neighbors",
+      "body": [
+        "We pre-wet and rinse landscaping, use <strong>eco-safe detergents</strong>, and control runoff so cleaning solution does not wander into beds or storm drains. Outlets, light fixtures, and doors are protected before washing starts. Most homes are finished in a single day."
+      ]
+    },
+    {
+      "h2": "Washing as the first step of a paint job",
+      "body": [
+        "Every exterior repaint we do starts with a wash and mildew treatment, because paint over dirt or live mildew does not last. If you are planning an <a href=\"/gainesville-fl-exterior-painting\">exterior repaint in Gainesville</a>, washing is already in the scope. If your paint is in good shape and just dirty, a standalone wash can buy you time before the next repaint.",
+        "A wash is also a good diagnostic. Once the grime is off, chalking, hairline cracks in stucco, and soft trim become much easier to see. If our crew spots anything during cleaning that suggests the coating has stopped protecting the wall, we will point it out and photograph it so you can decide what to do next, with no pressure to book a repaint. More detail on equipment and methods is on our main <a href=\"/pressure-washing\">pressure washing service</a> page, and the <a href=\"/locations/alachua-county/gainesville\">Gainesville painting page</a> covers everything else we do in town."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Can you soft wash my roof?", "a": "Yes. Roofs are cleaned with a low-pressure soft wash, never high pressure, which can damage shingles." },
+    { "q": "Is pressure washing included with exterior painting?", "a": "Yes. Washing and mildew treatment are part of the prep on every exterior repaint." },
+    { "q": "Will washing hurt my plants?", "a": "We pre-wet and rinse landscaping and use eco-safe detergents with runoff control to protect beds and lawns." }
+  ],
+  "related": ["/pressure-washing", "/locations/alachua-county/gainesville", "/gainesville-fl-exterior-painting", "/gainesville-fl-deck-staining", "/mold-on-siding-guide"]
+}

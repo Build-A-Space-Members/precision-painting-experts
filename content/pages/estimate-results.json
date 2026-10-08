@@ -1,0 +1,95 @@
+{
+  "path": "/estimate-results",
+  "type": "core",
+  "title": "Estimate Request Received: What Happens Next",
+  "description": "Your painting estimate request is in. Here's how the walkthrough works, what your written quote will include, and how to get ready for the visit.",
+  "h1": "Thanks, Your Estimate Request Is In",
+  "heroIntro": "A crew lead will contact you to schedule a walkthrough, usually within 48 hours. Here's what to expect between now and your written quote.",
+  "keywords": {
+    "primary": "painting estimate next steps",
+    "secondary": [
+      "what happens after a painting quote request",
+      "painting walkthrough what to expect",
+      "how to prepare for a painting estimate",
+      "itemized painting quote"
+    ],
+    "questions": [
+      "What happens after I request a painting estimate?",
+      "How should I prepare for a painter's walkthrough?",
+      "What does a written painting estimate include?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Your next steps for a painting estimate",
+      "body": [
+        "We have your details. Here's what happens next. A crew lead, the person who will actually run your project and not a salesperson, will call or email to set up a walkthrough. That's usually within 48 hours, Monday through Friday. If you need to reach us sooner, call <strong>(386) 854-7139</strong> between 9:00 AM and 6:30 PM."
+      ]
+    },
+    {
+      "h2": "Getting ready for the walkthrough",
+      "body": [
+        "You don't need to do much, but a little prep makes the visit more useful:"
+      ],
+      "bullets": [
+        "Make a note of problem spots, like a peeling sill, a ceiling stain, or a soft deck board, so we can check each one",
+        "Have any leftover paint cans handy. The label helps us match colors and know what's already on the walls",
+        "If you have color ideas, bring a chip, a photo, or a cabinet door you want to match",
+        "For exterior work, make sure we can get to the side yards and back of the house",
+        "HOA or commercial clients: have your approval guidelines or insurance certificate requirements ready"
+      ]
+    },
+    {
+      "h2": "What happens on site",
+      "body": [
+        "The crew lead measures each room or side of the building and photographs conditions. They take moisture readings anywhere that looks damp or soft. Surface condition drives a large share of the price, so this is the most important part of the visit. A house with faded but sound paint and a house with chalky siding, mildew on the north wall, and failed caulk at every trim joint can be the same size and need very different amounts of work.",
+        "If we find something that should be fixed before painting, like rot at a window sill or a leak behind a drywall stain, we'll tell you directly and price the repair. We won't paint over it. Our article on <a href=\"/hidden-siding-moisture-damage\">hidden moisture damage behind siding</a> shows why that matters."
+      ]
+    },
+    {
+      "h2": "What your written quote will include",
+      "body": [
+        "Your <strong>itemized estimate</strong> usually arrives within one business day after the walkthrough. It lists surfaces included and excluded, each prep step, primer and topcoat products by name, the number of coats, and the schedule. Optional items are listed separately, so you can choose what to do now and what can wait. Nothing is added later without your written approval.",
+        "Once you approve, most projects start within one to three weeks. Exterior jobs are planned around dew point and afternoon storms. Interior work can happen any time of year. You can stay home while we work, since we protect furniture and go room by room."
+      ]
+    },
+    {
+      "h2": "Comparing our quote with others",
+      "body": [
+        "If you're getting several bids, which is a good idea, compare them line by line instead of just looking at the total. Check whether each one includes washing, the same repairs, caulking, primer, and the same number of coats from a named product line. A lower total often means less prep, and in Florida, skipping prep is a common reason paint fails early.",
+        "Also ask each contractor about insurance, warranty terms, and who will actually be on site. We're licensed, bonded, and fully insured, with workers' comp on every crew member, and our own crews do the work. We don't subcontract."
+      ]
+    },
+    {
+      "h2": "While you wait",
+      "body": [
+        "To narrow down colors, look at our <a href=\"/color-consultation\">in-home color consultation</a> service or our guide to <a href=\"/florida-interior-paint-colors\">interior colors that work in Florida light</a>. For answers on timing, coats, and warranty, see the <a href=\"/our-faq\">painting FAQ</a>."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the walkthrough free?",
+      "a": "Yes. The walkthrough and the written estimate are free, and you're under no obligation to hire us."
+    },
+    {
+      "q": "How soon will I hear from you?",
+      "a": "Walkthroughs are usually scheduled within 48 hours. We work Monday through Friday, 9:00 AM to 6:30 PM, so a request sent on a weekend gets handled at the start of the week."
+    },
+    {
+      "q": "How soon can the work start?",
+      "a": "Most projects start one to three weeks after you approve the estimate. Your start date is included in the written schedule."
+    },
+    {
+      "q": "Can I change the scope after I see the quote?",
+      "a": "Yes. Since every line is itemized, you can remove items, push some to a later phase, or adjust the product choice on specific areas. We'll then send an updated written estimate."
+    }
+  ],
+  "related": [
+    "/get-a-free-quote",
+    "/our-faq",
+    "/color-consultation",
+    "/about-us",
+    "/services"
+  ]
+}

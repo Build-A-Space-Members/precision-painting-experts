@@ -1,0 +1,92 @@
+{
+  "path": "/anti-graffiti-coating",
+  "type": "service",
+  "title": "Anti-Graffiti Coating Application | Gainesville & Ocala",
+  "description": "Anti-graffiti coatings for storefronts, signs, walls, and site features in Gainesville, Ocala, and nearby towns. Sacrificial and permanent clear systems.",
+  "h1": "Anti-Graffiti Coatings That Make Tags Wash Off",
+  "heroIntro": "Clear sacrificial and permanent coatings for storefronts, monument signs, block walls, and metal doors, so graffiti comes off with cleaning instead of a repaint.",
+  "navLabel": "Anti-Graffiti Coating",
+  "card": "Clear sacrificial or permanent coatings that let graffiti wash off storefronts, signs, walls, and metal.",
+  "keywords": {
+    "primary": "anti-graffiti coating",
+    "secondary": [
+      "graffiti protection coating gainesville fl",
+      "sacrificial anti graffiti coating",
+      "permanent anti-graffiti clear coat",
+      "graffiti resistant paint for walls",
+      "graffiti removal and protection ocala"
+    ],
+    "questions": [
+      "What is the difference between sacrificial and permanent anti-graffiti coatings?",
+      "Does anti-graffiti coating change the look of the wall?",
+      "What surfaces can be protected from graffiti?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Why protect instead of repaint",
+      "body": [
+        "When a wall gets tagged, the usual response is to roll paint over it. That works once. After a few incidents, the wall becomes a patchwork of slightly different colors and sheens that makes the property look neglected, which tends to invite more tags. An <strong>anti-graffiti coating</strong> breaks that cycle: the clear finish keeps spray paint and marker from soaking in, so it can be cleaned off and the original surface stays uniform.",
+        "This page covers protection for individual buildings and features, such as a storefront, a church sign, a school wall, or a park restroom. For large industrial sites, long perimeter walls, and multi-building portfolios, see our page on <a href=\"/warehouse-anti-graffiti-coatings\">warehouse and perimeter anti-graffiti programs</a>."
+      ]
+    },
+    {
+      "h2": "Sacrificial vs. permanent coatings",
+      "body": [
+        "There are two main families of graffiti protection, and the right one depends on how often a surface is hit and how much you want to spend upfront."
+      ],
+      "bullets": [
+        "<strong>Sacrificial coatings</strong> are clear, often wax- or polymer-based films. Graffiti is removed with hot water pressure washing, and the coating comes off with it, so the area is recoated after each cleaning. Lower upfront cost and very breathable, which suits porous masonry.",
+        "<strong>Permanent coatings</strong> are hard, clear urethane or similar systems. Graffiti is removed with a mild cleaner or remover, and the coating stays in place through many cleanings. Higher upfront cost, best for surfaces that are hit repeatedly.",
+        "Semi-permanent options sit in between and are useful on painted surfaces that need some breathability."
+      ]
+    },
+    {
+      "h2": "Surfaces we protect",
+      "body": [
+        "Anti-graffiti systems work on most exterior surfaces when the product is matched to the substrate. Common applications include split-face and smooth block, stucco, brick, poured concrete, painted metal doors and utility boxes, monument and entry signs, and dumpster enclosures. Newly painted walls can be coated once the paint has cured, which locks in a fresh finish from day one.",
+        "Clear coatings are chosen to be non-yellowing in our sun and are available in matte or low-sheen versions so they do not make a wall look wet. We test a small area first so you can see the finished look before the whole surface is coated. On bare masonry, prep may begin with <a href=\"/concrete-masonry-painting\">masonry cleaning and coating</a>; on stucco, any cracks are handled through <a href=\"/stucco-repair-painting\">stucco repair</a> before the clear coat goes on."
+      ]
+    },
+    {
+      "h2": "Application and prep",
+      "body": [
+        "The surface has to be clean, dry, and free of existing graffiti before protection goes on. Crews <a href=\"/pressure-washing\">pressure wash</a> or soft wash, remove any tags, and repair or repaint damaged areas so you are not sealing in a problem. The coating is then sprayed or rolled in the number of coats the manufacturer specifies. For businesses, work can be scheduled before opening or after closing.",
+        "Sacrificial coatings usually go on in more than one pass because each layer is thin and coverage has to be complete to work. Permanent systems are often two-part products with a working time, so crews mix only what they can apply cleanly and keep a wet edge across the wall to avoid lap marks. Temperature and humidity affect both, which is why application is scheduled for dry, mild conditions and fresh coatings are protected from rain until set.",
+        "When the work is done, you receive written cleaning instructions specific to the product, including which removers are safe on it and which will damage it. Using the wrong solvent is the most common way a permanent coating gets ruined, so we leave that guidance with whoever will handle future cleanups."
+      ]
+    },
+    {
+      "h2": "Who uses graffiti protection",
+      "body": [
+        "Retail strips and restaurants with rear walls facing alleys, churches and schools with monument signs and long block walls, HOA entry features, parks, and transit-adjacent properties are the usual candidates. If your building is due for a full repaint, protection is easiest to add at the same time; our <a href=\"/commercial-exterior-painting\">commercial exterior painting</a> crews can coat the vulnerable lower walls once the new paint cures.",
+        "After an incident, quick removal matters. Tags removed promptly are less likely to be followed by more. With a permanent system, a cleaning crew or a trained maintenance person can usually handle small hits; with a sacrificial system, we wash the area and reapply. Your estimate names the product, coverage area, and recoat or cleaning instructions in writing."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which is better, sacrificial or permanent?",
+      "a": "Sacrificial is cheaper upfront and very breathable but must be reapplied after each cleaning. Permanent costs more initially but survives many cleanings. Surfaces hit often usually justify a permanent system."
+    },
+    {
+      "q": "Will the coating change how my wall looks?",
+      "a": "Products are clear and non-yellowing, in matte or low-sheen versions. We test a small area first so you can approve the appearance."
+    },
+    {
+      "q": "Can you coat a freshly painted wall?",
+      "a": "Yes, once the paint has cured. Coating right after a repaint protects the new finish from the start."
+    },
+    {
+      "q": "Do you remove existing graffiti?",
+      "a": "Yes. Existing tags are removed or painted out and the surface is cleaned before protection is applied."
+    }
+  ],
+  "related": [
+    "/warehouse-anti-graffiti-coatings",
+    "/commercial-exterior-painting",
+    "/retail-restaurant-painting",
+    "/church-educational-facility-painting",
+    "/specialty-services"
+  ]
+}

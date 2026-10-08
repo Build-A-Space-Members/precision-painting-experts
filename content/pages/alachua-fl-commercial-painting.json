@@ -1,0 +1,80 @@
+{
+  "path": "/alachua-fl-commercial-painting",
+  "type": "cityService",
+  "title": "Commercial Painting in Alachua, FL | After-Hours",
+  "description": "Commercial painting in Alachua, FL for Main Street storefronts and Progress Park buildings, scheduled nights and weekends. COI available. Free estimates.",
+  "h1": "Commercial Painting in Alachua, FL",
+  "heroIntro": "Storefronts on Main Street, buildings along the Progress Park corridor, and multi-family properties painted on a schedule that keeps your doors open.",
+  "keywords": {
+    "primary": "commercial painting alachua fl",
+    "secondary": [
+      "commercial painters alachua florida",
+      "storefront painting alachua",
+      "office painting alachua fl",
+      "after hours painting contractor alachua"
+    ],
+    "questions": [
+      "Can you paint my Alachua business without closing it?",
+      "Do you provide a certificate of insurance for commercial work?",
+      "What kinds of commercial buildings do you paint in Alachua?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Working around your business hours",
+      "body": [
+        "A business on <strong>Historic Main Street</strong> can't close for a week while its facade gets painted. An office in the Progress Park corridor can't have paint fumes in the air during the workday. For <strong>commercial painting in Alachua, FL</strong>, we plan around your operating hours. We can work nights, weekends, or in phases, finishing one area before moving to the next.",
+        "We're licensed, bonded, and fully insured in Florida, with workers' comp on every crew member. If you need a certificate of insurance naming your entity, landlord, or property manager, we'll provide it before we start. Our own crews do the work. We don't subcontract it."
+      ]
+    },
+    {
+      "h2": "Buildings we paint in Alachua",
+      "bullets": [
+        "Main Street <a href=\"/retail-restaurant-painting\">retail and restaurant spaces</a>, where front-of-house work happens after closing",
+        "Offices and flex buildings along the Progress Park corridor",
+        "<a href=\"/warehouse-industrial-painting\">Warehouse and industrial interiors</a>, including concrete and masonry",
+        "Churches, schools, and community buildings",
+        "Multi-family buildings and HOA common areas"
+      ]
+    },
+    {
+      "h2": "A scope you can hand to the owner",
+      "body": [
+        "Property managers and owners usually need the scope in writing before they can approve it. Our estimate lists the surfaces included and excluded, the prep for each area, the primer and topcoat products, the number of coats, and the phase schedule. Nothing gets added later without written approval. A crew lead, not a salesperson, does the walkthrough, and the itemized quote usually arrives within one business day.",
+        "Commercial surfaces take more abuse than homes. We use abrasion-rated enamels where carts, chairs, and hands make contact, and high-build coatings on block and masonry. On exteriors facing the street, we offer anti-graffiti and protective coatings."
+      ]
+    },
+    {
+      "h2": "Exterior work along busy frontage",
+      "body": [
+        "Storefront exteriors face the same weather as houses in town: long humid summers, afternoon storms, and strong sun on south- and west-facing walls. We schedule street-side work early in the day, keep walkways clear, and phase each side of the building so entrances stay usable. For more on the coatings, see our <a href=\"/commercial-exterior-painting\">commercial exterior painting</a> page or the <a href=\"/commercial-painting\">commercial painting overview</a>. Residential owners in town can find their options on the <a href=\"/alachua-fl-exterior-painting\">Alachua exterior page</a>, and the <a href=\"/locations/alachua-county/alachua\">Alachua city hub</a> lists everything else."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will we have to close during the repaint?",
+      "a": "Usually not. We schedule commercial work around your operating hours, including nights and weekends, and phase it so open areas stay usable."
+    },
+    {
+      "q": "Can you provide a certificate of insurance?",
+      "a": "Yes. We can provide a certificate naming your company, landlord, HOA, or management firm before we start."
+    },
+    {
+      "q": "Can you hold one color standard across several buildings?",
+      "a": "Yes. The estimate names the exact product line, colors, and sheens for each surface type, so a second building or a later phase matches the first. We also leave labelled touch-up paint for maintenance staff."
+    },
+    {
+      "q": "Do you paint multi-family and HOA properties in Alachua?",
+      "a": "Yes. We paint building exteriors, breezeways, and common areas for multi-family properties and HOAs, with written scopes that managers can share with their boards."
+    }
+  ],
+  "related": [
+    "/commercial-painting",
+    "/locations/alachua-county/alachua",
+    "/retail-restaurant-painting",
+    "/office-painting",
+    "/alachua-fl-exterior-painting",
+    "/hoa-property-management-painting"
+  ]
+}

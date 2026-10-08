@@ -1,0 +1,991 @@
+[
+ {
+  "path": "/category/branding",
+  "kind": "category",
+  "name": "Branding",
+  "posts": []
+ },
+ {
+  "path": "/category/ceiling-services",
+  "kind": "category",
+  "name": "Ceiling Services",
+  "posts": [
+   "remove-popcorn-ceiling-asbestos"
+  ]
+ },
+ {
+  "path": "/category/commercial-painting",
+  "kind": "category",
+  "name": "Commercial Painting",
+  "posts": [
+   "hoa-licensed-painters-guide"
+  ]
+ },
+ {
+  "path": "/category/deck-fence-staining",
+  "kind": "category",
+  "name": "Deck Fence Staining",
+  "posts": [
+   "deck-wood-rot-signs",
+   "treat-sun-damaged-wood-fence-alachua"
+  ]
+ },
+ {
+  "path": "/category/drywall-repair",
+  "kind": "category",
+  "name": "Drywall Repair",
+  "posts": [
+   "fix-bubbling-drywall-paint",
+   "urgent-drywall-repair-newberry-fl"
+  ]
+ },
+ {
+  "path": "/category/exterior-maintenance",
+  "kind": "category",
+  "name": "Exterior Maintenance",
+  "posts": [
+   "clean-florida-pollen-stains",
+   "cracked-paint-window-frames-danger",
+   "hidden-siding-moisture-damage",
+   "hide-stucco-cracks-guide",
+   "lake-city-stucco-cracks",
+   "mold-on-siding-guide"
+  ]
+ },
+ {
+  "path": "/category/exterior-painting-climate-tips",
+  "kind": "category",
+  "name": "Exterior Painting Climate Tips",
+  "posts": [
+   "exterior-paint-lifespan-florida",
+   "ocala-sun-paint-restoration",
+   "weather-effects-house-painting-florida"
+  ]
+ },
+ {
+  "path": "/category/exterior-painting-home-care",
+  "kind": "category",
+  "name": "Exterior Painting Home Care",
+  "posts": [
+   "exterior-painting-secrets",
+   "gainesville-historic-paint-colors",
+   "paint-trim-shutters"
+  ]
+ },
+ {
+  "path": "/category/exterior-painting-maintenance",
+  "kind": "category",
+  "name": "Exterior Painting Maintenance",
+  "posts": []
+ },
+ {
+  "path": "/category/florida-home-maintenance",
+  "kind": "category",
+  "name": "Florida Home Maintenance",
+  "posts": [
+   "humidity-paint-peeling",
+   "north-central-florida-exterior-care"
+  ]
+ },
+ {
+  "path": "/category/garage-floor-coating",
+  "kind": "category",
+  "name": "Garage Floor Coating",
+  "posts": [
+   "garage-epoxy-peeling-fix"
+  ]
+ },
+ {
+  "path": "/category/garage-flooring",
+  "kind": "category",
+  "name": "Garage Flooring",
+  "posts": []
+ },
+ {
+  "path": "/category/home-maintenance-repai",
+  "kind": "category",
+  "name": "Home Maintenance Repair",
+  "posts": []
+ },
+ {
+  "path": "/category/interior-painting",
+  "kind": "category",
+  "name": "Interior Painting",
+  "posts": []
+ },
+ {
+  "path": "/category/interior-painting-tips",
+  "kind": "category",
+  "name": "Interior Painting Tips",
+  "posts": [
+   "florida-interior-paint-colors",
+   "paint-finish-for-any-room"
+  ]
+ },
+ {
+  "path": "/category/kitchen-cabinet-refinishing",
+  "kind": "category",
+  "name": "Kitchen Cabinet Refinishing",
+  "posts": [
+   "paint-oak-cabinets",
+   "refinish-vs-replace-cabinets",
+   "temporary-fix-peeling-cabinet-paint"
+  ]
+ },
+ {
+  "path": "/category/kitchen-renovation",
+  "kind": "category",
+  "name": "Kitchen Renovation",
+  "posts": []
+ },
+ {
+  "path": "/category/outdoor-maintenance",
+  "kind": "category",
+  "name": "Outdoor Maintenance",
+  "posts": []
+ },
+ {
+  "path": "/category/painting-tips-diy-guides",
+  "kind": "category",
+  "name": "Painting Tips DIY Guides",
+  "posts": []
+ },
+ {
+  "path": "/category/uncategorized",
+  "kind": "category",
+  "name": "Uncategorized",
+  "posts": []
+ },
+ {
+  "path": "/category/wallpaper-removal",
+  "kind": "category",
+  "name": "Wallpaper Removal",
+  "posts": [
+   "remove-wallpaper-without-drywall-damage"
+  ]
+ },
+ {
+  "path": "/tag/alachua-florida",
+  "kind": "tag",
+  "name": "Alachua Florida",
+  "posts": [
+   "treat-sun-damaged-wood-fence-alachua"
+  ]
+ },
+ {
+  "path": "/tag/algae-cleaning",
+  "kind": "tag",
+  "name": "Algae Cleaning",
+  "posts": [
+   "mold-on-siding-guide"
+  ]
+ },
+ {
+  "path": "/tag/anti-graffiti-coating",
+  "kind": "tag",
+  "name": "Anti Graffiti Coating",
+  "posts": []
+ },
+ {
+  "path": "/tag/asbestos-safety",
+  "kind": "tag",
+  "name": "Asbestos Safety",
+  "posts": [
+   "remove-popcorn-ceiling-asbestos"
+  ]
+ },
+ {
+  "path": "/tag/barn-restoration",
+  "kind": "tag",
+  "name": "Barn Restoration",
+  "posts": []
+ },
+ {
+  "path": "/tag/best-paint-colors-florida",
+  "kind": "tag",
+  "name": "Best Paint Colors Florida",
+  "posts": [
+   "florida-interior-paint-colors"
+  ]
+ },
+ {
+  "path": "/tag/bubbling-paint",
+  "kind": "tag",
+  "name": "Bubbling Paint",
+  "posts": [
+   "fix-bubbling-drywall-paint"
+  ]
+ },
+ {
+  "path": "/tag/budget-kitchen-remodel",
+  "kind": "tag",
+  "name": "Budget Kitchen Remodel",
+  "posts": [
+   "refinish-vs-replace-cabinets"
+  ]
+ },
+ {
+  "path": "/tag/cabinet-painting",
+  "kind": "tag",
+  "name": "Cabinet Painting",
+  "posts": [
+   "paint-oak-cabinets"
+  ]
+ },
+ {
+  "path": "/tag/cabinet-refinishing",
+  "kind": "tag",
+  "name": "Cabinet Refinishing",
+  "posts": [
+   "paint-oak-cabinets",
+   "refinish-vs-replace-cabinets"
+  ]
+ },
+ {
+  "path": "/tag/cabinet-refinishing-florida",
+  "kind": "tag",
+  "name": "Cabinet Refinishing Florida",
+  "posts": [
+   "temporary-fix-peeling-cabinet-paint"
+  ]
+ },
+ {
+  "path": "/tag/cabinet-repair",
+  "kind": "tag",
+  "name": "Cabinet Repair",
+  "posts": [
+   "refinish-vs-replace-cabinets",
+   "temporary-fix-peeling-cabinet-paint"
+  ]
+ },
+ {
+  "path": "/tag/ceiling-repair",
+  "kind": "tag",
+  "name": "Ceiling Repair",
+  "posts": [
+   "remove-popcorn-ceiling-asbestos"
+  ]
+ },
+ {
+  "path": "/tag/color-consultation",
+  "kind": "tag",
+  "name": "Color Consultation",
+  "posts": [
+   "florida-interior-paint-colors"
+  ]
+ },
+ {
+  "path": "/tag/commercial-painting",
+  "kind": "tag",
+  "name": "Commercial Painting",
+  "posts": []
+ },
+ {
+  "path": "/tag/concrete-coating",
+  "kind": "tag",
+  "name": "Concrete Coating",
+  "posts": [
+   "garage-epoxy-peeling-fix"
+  ]
+ },
+ {
+  "path": "/tag/concrete-protection",
+  "kind": "tag",
+  "name": "Concrete Protection",
+  "posts": []
+ },
+ {
+  "path": "/tag/crack-repair",
+  "kind": "tag",
+  "name": "Crack Repair",
+  "posts": [
+   "hide-stucco-cracks-guide",
+   "lake-city-stucco-cracks"
+  ]
+ },
+ {
+  "path": "/tag/deck-staining",
+  "kind": "tag",
+  "name": "Deck Staining",
+  "posts": [
+   "deck-wood-rot-signs"
+  ]
+ },
+ {
+  "path": "/tag/deck-staining-tips",
+  "kind": "tag",
+  "name": "Deck Staining Tips",
+  "posts": []
+ },
+ {
+  "path": "/tag/drywall-care",
+  "kind": "tag",
+  "name": "Drywall Care",
+  "posts": [
+   "fix-bubbling-drywall-paint",
+   "remove-wallpaper-without-drywall-damage"
+  ]
+ },
+ {
+  "path": "/tag/drywall-repair",
+  "kind": "tag",
+  "name": "Drywall Repair",
+  "posts": [
+   "urgent-drywall-repair-newberry-fl"
+  ]
+ },
+ {
+  "path": "/tag/exterior-cleaning",
+  "kind": "tag",
+  "name": "Exterior Cleaning",
+  "posts": [
+   "clean-florida-pollen-stains"
+  ]
+ },
+ {
+  "path": "/tag/exterior-house-cleaning",
+  "kind": "tag",
+  "name": "Exterior House Cleaning",
+  "posts": [
+   "mold-on-siding-guide"
+  ]
+ },
+ {
+  "path": "/tag/exterior-maintenance-guide",
+  "kind": "tag",
+  "name": "Exterior Maintenance Guide",
+  "posts": [
+   "north-central-florida-exterior-care"
+  ]
+ },
+ {
+  "path": "/tag/exterior-paint-colors",
+  "kind": "tag",
+  "name": "Exterior Paint Colors",
+  "posts": [
+   "gainesville-historic-paint-colors"
+  ]
+ },
+ {
+  "path": "/tag/exterior-painting",
+  "kind": "tag",
+  "name": "Exterior Painting",
+  "posts": []
+ },
+ {
+  "path": "/tag/exterior-painting-florida",
+  "kind": "tag",
+  "name": "Exterior Painting Florida",
+  "posts": [
+   "exterior-paint-lifespan-florida",
+   "hide-stucco-cracks-guide",
+   "ocala-sun-paint-restoration",
+   "weather-effects-house-painting-florida"
+  ]
+ },
+ {
+  "path": "/tag/exterior-painting-tips",
+  "kind": "tag",
+  "name": "Exterior Painting Tips",
+  "posts": [
+   "exterior-painting-secrets",
+   "paint-trim-shutters"
+  ]
+ },
+ {
+  "path": "/tag/exterior-trim-painters",
+  "kind": "tag",
+  "name": "Exterior Trim Painters",
+  "posts": [
+   "paint-trim-shutters"
+  ]
+ },
+ {
+  "path": "/tag/facility-management",
+  "kind": "tag",
+  "name": "Facility Management",
+  "posts": []
+ },
+ {
+  "path": "/tag/fence-staining",
+  "kind": "tag",
+  "name": "Fence Staining",
+  "posts": [
+   "treat-sun-damaged-wood-fence-alachua"
+  ]
+ },
+ {
+  "path": "/tag/fence-staining-florida",
+  "kind": "tag",
+  "name": "Fence Staining Florida",
+  "posts": []
+ },
+ {
+  "path": "/tag/florida-house-paint",
+  "kind": "tag",
+  "name": "Florida House Paint",
+  "posts": []
+ },
+ {
+  "path": "/tag/florida-house-painting",
+  "kind": "tag",
+  "name": "Florida House Painting",
+  "posts": []
+ },
+ {
+  "path": "/tag/florida-interior-painting",
+  "kind": "tag",
+  "name": "Florida Interior Painting",
+  "posts": [
+   "florida-interior-paint-colors"
+  ]
+ },
+ {
+  "path": "/tag/fort-white-fl",
+  "kind": "tag",
+  "name": "Fort White FL",
+  "posts": []
+ },
+ {
+  "path": "/tag/gainesville-fl-painting",
+  "kind": "tag",
+  "name": "Gainesville FL Painting",
+  "posts": [
+   "gainesville-historic-paint-colors"
+  ]
+ },
+ {
+  "path": "/tag/gainesville-house-care",
+  "kind": "tag",
+  "name": "Gainesville House Care",
+  "posts": [
+   "gainesville-historic-paint-colors"
+  ]
+ },
+ {
+  "path": "/tag/garage-floor-epoxy",
+  "kind": "tag",
+  "name": "Garage Floor Epoxy",
+  "posts": [
+   "garage-epoxy-peeling-fix"
+  ]
+ },
+ {
+  "path": "/tag/garage-flooring",
+  "kind": "tag",
+  "name": "Garage Flooring",
+  "posts": []
+ },
+ {
+  "path": "/tag/garage-makeover",
+  "kind": "tag",
+  "name": "Garage Makeover",
+  "posts": []
+ },
+ {
+  "path": "/tag/ground-settling",
+  "kind": "tag",
+  "name": "Ground Settling",
+  "posts": [
+   "hide-stucco-cracks-guide",
+   "lake-city-stucco-cracks"
+  ]
+ },
+ {
+  "path": "/tag/historic-home-painting",
+  "kind": "tag",
+  "name": "Historic Home Painting",
+  "posts": [
+   "gainesville-historic-paint-colors"
+  ]
+ },
+ {
+  "path": "/tag/hoa-maintenance",
+  "kind": "tag",
+  "name": "HOA Maintenance",
+  "posts": [
+   "hoa-licensed-painters-guide"
+  ]
+ },
+ {
+  "path": "/tag/home-exterior-care",
+  "kind": "tag",
+  "name": "Home Exterior Care",
+  "posts": [
+   "clean-florida-pollen-stains",
+   "hidden-siding-moisture-damage",
+   "north-central-florida-exterior-care"
+  ]
+ },
+ {
+  "path": "/tag/home-improvement",
+  "kind": "tag",
+  "name": "Home Improvement",
+  "posts": [
+   "remove-wallpaper-without-drywall-damage"
+  ]
+ },
+ {
+  "path": "/tag/home-maintenance",
+  "kind": "tag",
+  "name": "Home Maintenance",
+  "posts": [
+   "north-central-florida-exterior-care"
+  ]
+ },
+ {
+  "path": "/tag/home-painting-advice",
+  "kind": "tag",
+  "name": "Home Painting Advice",
+  "posts": []
+ },
+ {
+  "path": "/tag/home-renovation",
+  "kind": "tag",
+  "name": "Home Renovation",
+  "posts": [
+   "remove-popcorn-ceiling-asbestos"
+  ]
+ },
+ {
+  "path": "/tag/home-repair",
+  "kind": "tag",
+  "name": "Home Repair",
+  "posts": [
+   "urgent-drywall-repair-newberry-fl"
+  ]
+ },
+ {
+  "path": "/tag/horse-farm-maintenance",
+  "kind": "tag",
+  "name": "Horse Farm Maintenance",
+  "posts": []
+ },
+ {
+  "path": "/tag/hot-tire-pick-up",
+  "kind": "tag",
+  "name": "Hot Tire Pick Up",
+  "posts": [
+   "garage-epoxy-peeling-fix"
+  ]
+ },
+ {
+  "path": "/tag/house-painting-tips",
+  "kind": "tag",
+  "name": "House Painting Tips",
+  "posts": [
+   "exterior-painting-secrets"
+  ]
+ },
+ {
+  "path": "/tag/house-trim-painting",
+  "kind": "tag",
+  "name": "House Trim Painting",
+  "posts": [
+   "paint-trim-shutters"
+  ]
+ },
+ {
+  "path": "/tag/humid-climate-wood-care",
+  "kind": "tag",
+  "name": "Humid Climate Wood Care",
+  "posts": [
+   "deck-wood-rot-signs"
+  ]
+ },
+ {
+  "path": "/tag/humidity-damage",
+  "kind": "tag",
+  "name": "Humidity Damage",
+  "posts": [
+   "fix-bubbling-drywall-paint",
+   "humidity-paint-peeling",
+   "mold-on-siding-guide"
+  ]
+ },
+ {
+  "path": "/tag/humidity-resistant-paint",
+  "kind": "tag",
+  "name": "Humidity Resistant Paint",
+  "posts": [
+   "weather-effects-house-painting-florida"
+  ]
+ },
+ {
+  "path": "/tag/humidity-solutions",
+  "kind": "tag",
+  "name": "Humidity Solutions",
+  "posts": [
+   "humidity-paint-peeling"
+  ]
+ },
+ {
+  "path": "/tag/interior-painters-florida",
+  "kind": "tag",
+  "name": "Interior Painters Florida",
+  "posts": []
+ },
+ {
+  "path": "/tag/interior-painting",
+  "kind": "tag",
+  "name": "Interior Painting",
+  "posts": [
+   "florida-interior-paint-colors",
+   "paint-finish-for-any-room"
+  ]
+ },
+ {
+  "path": "/tag/interior-painting-tips",
+  "kind": "tag",
+  "name": "Interior Painting Tips",
+  "posts": []
+ },
+ {
+  "path": "/tag/interior-prep",
+  "kind": "tag",
+  "name": "Interior Prep",
+  "posts": [
+   "fix-bubbling-drywall-paint",
+   "remove-wallpaper-without-drywall-damage"
+  ]
+ },
+ {
+  "path": "/tag/kitchen-cabinets",
+  "kind": "tag",
+  "name": "Kitchen Cabinets",
+  "posts": [
+   "paint-oak-cabinets",
+   "temporary-fix-peeling-cabinet-paint"
+  ]
+ },
+ {
+  "path": "/tag/kitchen-renovation",
+  "kind": "tag",
+  "name": "Kitchen Renovation",
+  "posts": [
+   "refinish-vs-replace-cabinets"
+  ]
+ },
+ {
+  "path": "/tag/lake-city-fl",
+  "kind": "tag",
+  "name": "Lake City FL",
+  "posts": [
+   "lake-city-stucco-cracks"
+  ]
+ },
+ {
+  "path": "/tag/liability-insurance",
+  "kind": "tag",
+  "name": "Liability Insurance",
+  "posts": [
+   "hoa-licensed-painters-guide"
+  ]
+ },
+ {
+  "path": "/tag/licensed-painters",
+  "kind": "tag",
+  "name": "Licensed Painters",
+  "posts": [
+   "hoa-licensed-painters-guide"
+  ]
+ },
+ {
+  "path": "/tag/long-lasting-paint-results",
+  "kind": "tag",
+  "name": "Long Lasting Paint Results",
+  "posts": [
+   "exterior-paint-lifespan-florida",
+   "ocala-sun-paint-restoration"
+  ]
+ },
+ {
+  "path": "/tag/moisture-damage",
+  "kind": "tag",
+  "name": "Moisture Damage",
+  "posts": [
+   "hidden-siding-moisture-damage"
+  ]
+ },
+ {
+  "path": "/tag/mold-on-siding",
+  "kind": "tag",
+  "name": "Mold On Siding",
+  "posts": [
+   "mold-on-siding-guide"
+  ]
+ },
+ {
+  "path": "/tag/newberry-fl",
+  "kind": "tag",
+  "name": "Newberry FL",
+  "posts": [
+   "urgent-drywall-repair-newberry-fl"
+  ]
+ },
+ {
+  "path": "/tag/north-central-florida",
+  "kind": "tag",
+  "name": "North Central Florida",
+  "posts": [
+   "clean-florida-pollen-stains"
+  ]
+ },
+ {
+  "path": "/tag/north-central-florida-climate",
+  "kind": "tag",
+  "name": "North Central Florida Climate",
+  "posts": [
+   "north-central-florida-exterior-care",
+   "weather-effects-house-painting-florida"
+  ]
+ },
+ {
+  "path": "/tag/north-central-florida-painters",
+  "kind": "tag",
+  "name": "North Central Florida Painters",
+  "posts": []
+ },
+ {
+  "path": "/tag/oak-cabinet-painting",
+  "kind": "tag",
+  "name": "Oak Cabinet Painting",
+  "posts": [
+   "paint-oak-cabinets"
+  ]
+ },
+ {
+  "path": "/tag/ocala-fl",
+  "kind": "tag",
+  "name": "Ocala FL",
+  "posts": [
+   "ocala-sun-paint-restoration"
+  ]
+ },
+ {
+  "path": "/tag/outdoor-living",
+  "kind": "tag",
+  "name": "Outdoor Living",
+  "posts": [
+   "deck-wood-rot-signs"
+  ]
+ },
+ {
+  "path": "/tag/paint-failure",
+  "kind": "tag",
+  "name": "Paint Failure",
+  "posts": [
+   "cracked-paint-window-frames-danger",
+   "humidity-paint-peeling"
+  ]
+ },
+ {
+  "path": "/tag/paint-finish-guide",
+  "kind": "tag",
+  "name": "Paint Finish Guide",
+  "posts": [
+   "paint-finish-for-any-room"
+  ]
+ },
+ {
+  "path": "/tag/paint-lifespan-florida",
+  "kind": "tag",
+  "name": "Paint Lifespan Florida",
+  "posts": [
+   "exterior-paint-lifespan-florida"
+  ]
+ },
+ {
+  "path": "/tag/paint-peeling",
+  "kind": "tag",
+  "name": "Paint Peeling",
+  "posts": []
+ },
+ {
+  "path": "/tag/paint-selection",
+  "kind": "tag",
+  "name": "Paint Selection",
+  "posts": [
+   "paint-finish-for-any-room"
+  ]
+ },
+ {
+  "path": "/tag/paint-sheen-selection",
+  "kind": "tag",
+  "name": "Paint Sheen Selection",
+  "posts": [
+   "paint-finish-for-any-room"
+  ]
+ },
+ {
+  "path": "/tag/peeling-garage-floor",
+  "kind": "tag",
+  "name": "Peeling Garage Floor",
+  "posts": [
+   "garage-epoxy-peeling-fix"
+  ]
+ },
+ {
+  "path": "/tag/peeling-paint",
+  "kind": "tag",
+  "name": "Peeling Paint",
+  "posts": [
+   "humidity-paint-peeling",
+   "temporary-fix-peeling-cabinet-paint"
+  ]
+ },
+ {
+  "path": "/tag/pollen-removal",
+  "kind": "tag",
+  "name": "Pollen Removal",
+  "posts": [
+   "clean-florida-pollen-stains"
+  ]
+ },
+ {
+  "path": "/tag/polyaspartic-coating",
+  "kind": "tag",
+  "name": "Polyaspartic Coating",
+  "posts": []
+ },
+ {
+  "path": "/tag/popcorn-ceiling-removal",
+  "kind": "tag",
+  "name": "Popcorn Ceiling Removal",
+  "posts": [
+   "remove-popcorn-ceiling-asbestos"
+  ]
+ },
+ {
+  "path": "/tag/precision-paint-experts",
+  "kind": "tag",
+  "name": "Precision Paint Experts",
+  "posts": []
+ },
+ {
+  "path": "/tag/precisionpaintexperts",
+  "kind": "tag",
+  "name": "Precisionpaintexperts",
+  "posts": []
+ },
+ {
+  "path": "/tag/professional-painters",
+  "kind": "tag",
+  "name": "Professional Painters",
+  "posts": [
+   "exterior-painting-secrets"
+  ]
+ },
+ {
+  "path": "/tag/professional-painting-secrets",
+  "kind": "tag",
+  "name": "Professional Painting Secrets",
+  "posts": [
+   "exterior-painting-secrets"
+  ]
+ },
+ {
+  "path": "/tag/property-management",
+  "kind": "tag",
+  "name": "Property Management",
+  "posts": [
+   "hoa-licensed-painters-guide"
+  ]
+ },
+ {
+  "path": "/tag/residential-painting",
+  "kind": "tag",
+  "name": "Residential Painting",
+  "posts": []
+ },
+ {
+  "path": "/tag/siding-repair",
+  "kind": "tag",
+  "name": "Siding Repair",
+  "posts": [
+   "hidden-siding-moisture-damage"
+  ]
+ },
+ {
+  "path": "/tag/stucco-repair",
+  "kind": "tag",
+  "name": "Stucco Repair",
+  "posts": [
+   "hide-stucco-cracks-guide",
+   "lake-city-stucco-cracks"
+  ]
+ },
+ {
+  "path": "/tag/sun-damage",
+  "kind": "tag",
+  "name": "Sun Damage",
+  "posts": [
+   "exterior-paint-lifespan-florida",
+   "ocala-sun-paint-restoration",
+   "treat-sun-damaged-wood-fence-alachua"
+  ]
+ },
+ {
+  "path": "/tag/wallpaper-removal",
+  "kind": "tag",
+  "name": "Wallpaper Removal",
+  "posts": [
+   "remove-wallpaper-without-drywall-damage"
+  ]
+ },
+ {
+  "path": "/tag/warehouse-maintenance",
+  "kind": "tag",
+  "name": "Warehouse Maintenance",
+  "posts": []
+ },
+ {
+  "path": "/tag/water-damage",
+  "kind": "tag",
+  "name": "Water Damage",
+  "posts": [
+   "cracked-paint-window-frames-danger",
+   "hidden-siding-moisture-damage",
+   "urgent-drywall-repair-newberry-fl"
+  ]
+ },
+ {
+  "path": "/tag/weather-impact-on-paint",
+  "kind": "tag",
+  "name": "Weather Impact On Paint",
+  "posts": [
+   "weather-effects-house-painting-florida"
+  ]
+ },
+ {
+  "path": "/tag/window-frame-repair",
+  "kind": "tag",
+  "name": "Window Frame Repair",
+  "posts": [
+   "cracked-paint-window-frames-danger"
+  ]
+ },
+ {
+  "path": "/tag/wood-fence-repair",
+  "kind": "tag",
+  "name": "Wood Fence Repair",
+  "posts": [
+   "treat-sun-damaged-wood-fence-alachua"
+  ]
+ },
+ {
+  "path": "/tag/wood-rot",
+  "kind": "tag",
+  "name": "Wood Rot",
+  "posts": [
+   "cracked-paint-window-frames-danger",
+   "deck-wood-rot-signs"
+  ]
+ },
+ {
+  "path": "/tag/wood-rot-prevention",
+  "kind": "tag",
+  "name": "Wood Rot Prevention",
+  "posts": []
+ }
+]

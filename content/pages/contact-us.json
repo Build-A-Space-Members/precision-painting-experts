@@ -1,0 +1,86 @@
+{
+  "path": "/contact-us",
+  "type": "core",
+  "title": "Contact Precision Paint Experts | Newberry, FL",
+  "description": "Call (386) 854-7139, email, or use the form to reach Precision Paint Experts in Newberry, FL. Painting estimates, questions, and warranty requests.",
+  "h1": "Contact Precision Paint Experts",
+  "heroIntro": "Call, email, or use the form below. Your message goes to someone who prices and runs painting jobs, not a call center.",
+  "keywords": {
+    "primary": "contact painting contractor newberry fl",
+    "secondary": [
+      "precision paint experts phone number",
+      "painters near me contact",
+      "north central florida painting company contact",
+      "painting warranty request"
+    ],
+    "questions": [
+      "How do I contact Precision Paint Experts?",
+      "What are Precision Paint Experts' business hours?",
+      "Can I ask a painting question without scheduling an estimate?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "How to reach us",
+      "body": [
+        "Precision Paint Experts, LLC is a <strong>painting contractor based in Newberry, FL</strong> 32669, serving all of North Central Florida. Choose whichever option works best for you:"
+      ],
+      "bullets": [
+        "Phone: (386) 854-7139",
+        "Email: info@precisionpaintexperts.com",
+        "Hours: Monday through Friday, 9:00 AM to 6:30 PM. Closed Saturday and Sunday.",
+        "Form: on this page, any time. We answer during business hours."
+      ]
+    },
+    {
+      "h2": "Using the form",
+      "body": [
+        "The form asks for your name, email, phone, city, the service you're interested in, and a short description. In the description, mention the type of property, whether the work is inside, outside, or both, and anything you've noticed, like a water stain on the ceiling or paint lifting off a porch railing. Including your city helps us confirm you're in our <a href=\"/service-areas\">North Central Florida service area</a> and plan a visit.",
+        "Photos are welcome by email. A wide shot of the house or room plus a close-up of any damage helps us prepare for the visit and bring the right tools for moisture readings. Photos won't replace the walkthrough, though. We measure and look at every surface in person before putting a price in writing, because a fair quote depends on what's actually there.",
+        "If you already know you want a price, the <a href=\"/get-a-free-quote\">free estimate request page</a> explains what the walkthrough covers and what the written quote includes."
+      ]
+    },
+    {
+      "h2": "What happens after you reach out",
+      "body": [
+        "For a new project, we'll schedule a walkthrough, usually within 48 hours. A crew lead measures, photographs conditions, and writes up an itemized estimate, which usually arrives within one business day of the visit. Most approved projects start one to three weeks later.",
+        "Commercial clients, HOAs, and property managers can ask for a <strong>certificate of insurance naming their entity</strong> as part of this first conversation. Our <a href=\"/hoa-property-management-painting\">HOA and property management painting</a> page explains how we coordinate community-wide projects."
+      ]
+    },
+    {
+      "h2": "What we can help with",
+      "body": [
+        "All work is done by our own crews: interior and exterior painting, residential and commercial repaints, cabinet refinishing, deck and fence staining, pressure washing and soft washing, drywall and stucco repair, popcorn ceiling and wallpaper removal, garage floor epoxy, and protective coatings. If you're not sure your project fits, the <a href=\"/services\">full painting services list</a> covers it all, or you can simply describe the job in the form.",
+        "If you're not ready to pick colors yet, that's fine. We can match an existing color from a chip, a cabinet door, or a leftover can, or help you choose new colors during the walkthrough. Remember that weekend messages are answered when the office opens Monday.",
+        "For property managers and commercial clients, contact us early in your planning, before budgets are set. A walkthrough at that stage gives you an itemized scope you can bring to the owner or board, and it leaves time to schedule nights and weekends around tenants and customers."
+      ]
+    },
+    {
+      "h2": "Existing clients and quick questions",
+      "body": [
+        "Have a warranty question or need a touch-up on a past job? Call the same number and give us the property address. Because we stay local, a warranty visit is just a normal stop on our route.",
+        "If you just want a straight answer, like whether that fascia can be saved, which sheen to use in a bathroom, or whether it's too humid to paint this week, go ahead and ask. Our <a href=\"/our-faq\">painting FAQ</a> may already have the answer."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are your business hours?",
+      "a": "We're open Monday through Friday, 9:00 AM to 6:30 PM, and closed Saturday and Sunday. You can send email or the form any time."
+    },
+    {
+      "q": "Do you have a showroom or office I can visit?",
+      "a": "We're based in Newberry, FL 32669 and come to you. All estimates are done on site at your property."
+    },
+    {
+      "q": "How fast will someone respond?",
+      "a": "We answer form and email messages during business hours, Monday through Friday. For new projects, walkthroughs are usually scheduled within 48 hours."
+    }
+  ],
+  "related": [
+    "/get-a-free-quote",
+    "/about-us",
+    "/our-faq",
+    "/service-areas"
+  ]
+}

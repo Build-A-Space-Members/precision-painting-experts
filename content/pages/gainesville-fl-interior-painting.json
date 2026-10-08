@@ -1,0 +1,58 @@
+{
+  "path": "/gainesville-fl-interior-painting",
+  "type": "cityService",
+  "title": "Interior Painting in Gainesville, FL | Walls & Trim",
+  "description": "Interior painting in Gainesville, FL: walls, ceilings, trim, and doors with low-VOC options. Furniture moved and protected, room by room. Free written quote.",
+  "h1": "Interior Painting in Gainesville, FL",
+  "heroIntro": "Walls that hold up to scrubbing, ceilings without flashing, and trim with a clean enamel edge, painted while your Gainesville household carries on around us.",
+  "keywords": {
+    "primary": "interior painting gainesville fl",
+    "secondary": ["interior house painters gainesville", "wall and ceiling painting gainesville", "trim and door painting gainesville", "low voc interior paint gainesville"],
+    "questions": ["How long does it take to paint a room in Gainesville?", "What paint finish should I use in a Florida bathroom?", "Can you paint my home's interior while I live there?"]
+  },
+  "sections": [
+    {
+      "h2": "What Gainesville interiors ask of a paint job",
+      "body": [
+        "Indoor humidity in North Central Florida is not just a bathroom issue. Closets on exterior walls, laundry rooms, and kitchens all see condensation and steam, and flat builder paint in a hallway shows every handprint. Older homes in Duckpond and Pleasant Street add another layer: surfaces that have been repainted many times, sometimes over a glossy oil coat that new latex will not grip without sanding and a bonding primer.",
+        "In NW Gainesville bungalows we often find small cracks at corners and seams, and in newer Haile Plantation and Kanapaha-area homes the usual complaint is tired, scuffed flat paint that cannot be cleaned."
+      ]
+    },
+    {
+      "h2": "Prep before color",
+      "bullets": [
+        "Patch nail pops, dings, and settlement cracks; feather and sand smooth",
+        "<strong>Spot-prime every repair</strong> so patches do not flash through the finish",
+        "Degloss and prime old enamel trim before switching systems",
+        "Caulk gaps at baseboards, casings, and crown",
+        "Treat any mildew in baths and closets at the source before painting"
+      ]
+    },
+    {
+      "h2": "Choosing sheen room by room",
+      "body": [
+        "Sheen is where most interior repaints go wrong. A higher sheen cleans better but reveals wall flaws; a flatter one hides flaws but marks more easily. We usually suggest a washable matte or eggshell for living areas, satin in kitchens, baths, and kids' rooms, and <strong>waterborne urethane enamel</strong> on doors and trim for a hard, cleanable edge. Our guide to <a href=\"/paint-finish-for-any-room\">picking a paint finish for every room</a> walks through the trade-offs.",
+        "Ceilings get a flat, non-reflective finish to hide roller laps. If your ceilings are still textured, <a href=\"/ceiling-painting-popcorn-removal\">popcorn ceiling removal</a> can be added before the walls are painted."
+      ]
+    },
+    {
+      "h2": "Working around your household",
+      "body": [
+        "Crews move and cover furniture, mask floors, and finish one room before opening the next, so you keep a working kitchen and a place to sleep. Low-VOC and eco-conscious products are available. A single room usually takes one day; a whole-home interior runs three days to two weeks depending on size, ceiling height, and the amount of repair."
+      ]
+    },
+    {
+      "h2": "Getting a quote",
+      "body": [
+        "A crew lead measures each room, notes repairs and sheen changes, and sends an itemized estimate, usually within one business day. Interior work can be scheduled any month, which makes it a good summer project while exteriors wait for drier weather. Our main <a href=\"/interior-painting\">interior painting</a> page covers products in more detail. See how interior jobs fit into the rest of our <a href=\"/gainesville-fl-residential-painting\">Gainesville home painting</a> work, or read about <a href=\"/fix-bubbling-drywall-paint\">why drywall paint bubbles</a> if you are seeing blisters already."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Do I need to empty the room before you arrive?", "a": "No. Clearing small breakables and wall hangings helps, but our crews move and protect furniture themselves and put it back when the room is done." },
+    { "q": "Can you paint over the glossy trim in my older Gainesville home?", "a": "Yes, after it is deglossed and primed with a bonding primer. Skipping that step is a common reason new trim paint peels." },
+    { "q": "What color can you match?", "a": "We can match from a paint chip, a cabinet door, or a leftover can, and we show full-size drawdowns before committing." },
+    { "q": "Will my house smell like paint for days?", "a": "Low-VOC options keep odor to a minimum, and most rooms can be used again the same day they are finished." }
+  ],
+  "related": ["/interior-painting", "/locations/alachua-county/gainesville", "/gainesville-fl-color-consultation", "/drywall-repair-patching", "/paint-finish-for-any-room"]
+}

@@ -1,0 +1,79 @@
+{
+  "path": "/alachua-fl-color-consultation",
+  "type": "cityService",
+  "title": "Color Consultation in Alachua, FL | Paint Colors",
+  "description": "Color consultation in Alachua, FL with full-size drawdowns on your own walls, help with HOA-approved palettes, and color matching from a chip or old can.",
+  "h1": "Color Consultation in Alachua, FL",
+  "heroIntro": "Help choosing colors for Alachua homes and storefronts, with full-size drawdowns on your own walls so you can see each color in real Florida light.",
+  "keywords": {
+    "primary": "color consultation alachua fl",
+    "secondary": [
+      "paint color help alachua",
+      "exterior color selection alachua fl",
+      "hoa paint colors alachua florida",
+      "storefront color consultation alachua"
+    ],
+    "questions": [
+      "Why do paint colors look different on my walls than on the chip?",
+      "Can you help me choose colors my HOA will approve?",
+      "Can you match a paint color without the original can?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Florida light changes how colors look",
+      "body": [
+        "A color that looks soft and warm in the store can look washed out on a south-facing wall in Alachua by noon. A gray that reads as calm on a two-inch chip can turn blue in a room with big north windows. Our <strong>color consultation in Alachua, FL</strong> is run by painters, not decorators. We've seen how colors behave on stucco, siding, and drywall in this light, and we show you large samples on your own walls before you commit."
+      ]
+    },
+    {
+      "h2": "How the session works",
+      "bullets": [
+        "We look at fixed elements first, like roof color, flooring, counters, and brick, since the palette has to work with them",
+        "We paint <strong>full-size drawdowns</strong> and check them in morning and afternoon light",
+        "We coordinate wall, trim, door, and ceiling colors so the house reads as one plan",
+        "We match colors from a chip, a cabinet door, or a leftover can when you're keeping an existing color",
+        "We write the final colors and sheens into the painting estimate so nothing gets mixed up"
+      ]
+    },
+    {
+      "h2": "Three common Alachua color projects",
+      "body": [
+        "<strong>Subdivision exteriors.</strong> In communities like Heritage Oaks, Cinnamon Hills, or Savannah Station, an exterior color change may need review board approval. We work within the approved palette and provide large samples the board can actually judge.",
+        "<strong>Main Street storefronts.</strong> A facade on Historic Main Street needs to fit the block while still standing out to people walking by. We look at signage, awnings, and neighboring buildings before suggesting a body and trim combination.",
+        "<strong>Interiors in bright, open rooms.</strong> Large homes on the north end often have open plans where one wall color runs through several rooms. Choosing it means checking how it looks in the brightest room and the darkest corner. Our article on <a href=\"/florida-interior-paint-colors\">Florida interior paint colors</a> covers popular directions."
+      ]
+    },
+    {
+      "h2": "From colors to a schedule",
+      "body": [
+        "Once the palette is set, it goes straight into the estimate for the work, whether that's <a href=\"/alachua-fl-interior-painting\">painting rooms in Alachua</a> or <a href=\"/alachua-fl-exterior-painting\">a full exterior repaint</a>. Our general <a href=\"/color-consultation\">color consultation page</a> explains the approach in more detail, and the <a href=\"/locations/alachua-county/alachua\">Alachua page</a> lists everything else we offer in town."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why does a color look different on my wall than on the chip?",
+      "a": "The size of the sample, the direction of the light, and nearby surfaces all change how a color looks. That's why we paint full-size drawdowns and check them at different times of day."
+    },
+    {
+      "q": "Can you work within my HOA's approved colors?",
+      "a": "Yes. We help you choose from the approved palette, provide large samples for the review board, and can match an approved color exactly."
+    },
+    {
+      "q": "Should I choose interior and exterior colors at the same time?",
+      "a": "It helps if both are being painted within the year. Seeing the entry, trim, and front door color alongside the main living space keeps the house consistent, but each can be decided on its own schedule."
+    },
+    {
+      "q": "Can you match a color if I don't have the can?",
+      "a": "Yes. We can match from a chip, a painted cabinet door, or a leftover can, and paint a drawdown so you can confirm the match before work begins."
+    }
+  ],
+  "related": [
+    "/color-consultation",
+    "/locations/alachua-county/alachua",
+    "/alachua-fl-interior-painting",
+    "/alachua-fl-exterior-painting",
+    "/florida-interior-paint-colors"
+  ]
+}

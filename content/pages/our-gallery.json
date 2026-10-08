@@ -1,0 +1,89 @@
+{
+  "path": "/our-gallery",
+  "type": "core",
+  "title": "Painting Gallery: Homes, Storefronts & Cabinets",
+  "description": "See examples of the residential exterior, commercial, stucco, and cabinet painting work Precision Paint Experts does across North Central Florida.",
+  "h1": "Painting Gallery: Examples of Our Work",
+  "heroIntro": "Four photos, four kinds of work we do every week: home exteriors, commercial storefronts, textured stucco, and cabinet refinishing.",
+  "keywords": {
+    "primary": "painting project gallery north central florida",
+    "secondary": [
+      "house painting photos gainesville",
+      "exterior painting examples florida",
+      "cabinet refinishing photos",
+      "commercial storefront painting examples"
+    ],
+    "questions": [
+      "What should I look for in a painting contractor's photos?",
+      "What does good stucco painting look like up close?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What these photos show",
+      "body": [
+        "This <strong>painting project gallery</strong> covers the main kinds of work we do across North Central Florida. Each photo stands in for a whole category of projects. Look past the color and check the details that show workmanship: straight cut lines, an even sheen across large surfaces, and nothing painted that shouldn't be.",
+        "We'll add more photos over time. Meanwhile, here's what each image represents and what goes into that kind of work. One thing all four have in common: the <strong>prep you can't see in the photo</strong> is what made it come out well."
+      ]
+    },
+    {
+      "h2": "A two-story Florida home exterior",
+      "body": [
+        "A two-story elevation is where an exterior repaint either looks consistent or gets blotchy and lap-marked. Big wall areas show every change in sheen, and the second-floor trim is where rushed crews cut corners. Our <a href=\"/exterior-painting\">exterior house painting</a> starts with a wash and enough drying time. Then we scrape failing paint, replace soft fascia, re-caulk the joints, and spot-prime before applying two full coats of 100% acrylic.",
+        "High walls take more staging and more time, and that's one reason access and height appear on our estimates."
+      ]
+    },
+    {
+      "h2": "A commercial storefront",
+      "body": [
+        "The storefront photo shows what most business owners want: a clean, sharp front that looks fresh without the business closing for a week. We schedule <a href=\"/commercial-exterior-painting\">commercial exterior painting</a> around operating hours, including nights and weekends. Before we start, we can give you a certificate of insurance naming your company or landlord."
+      ]
+    },
+    {
+      "h2": "A roller on textured stucco",
+      "body": [
+        "Textured stucco looks simple to paint, but it's porous and full of small valleys a thin coat won't fill. Where it has fine hairline cracks, we use elastomeric coatings that bridge small movement. On sprayed surfaces we back-roll so the coating gets worked into the texture instead of sitting on top. Our <a href=\"/stucco-repair-painting\">stucco repair and painting</a> page walks through the crack repair that comes first."
+      ]
+    },
+    {
+      "h2": "A painter refinishing white cabinets",
+      "body": [
+        "White cabinets show every flaw, so they're a good test of a painter. Our <a href=\"/cabinet-painting-refinishing\">cabinet painting and refinishing</a> process means removing doors, degreasing, sanding, using a bonding primer, and finishing with waterborne urethane enamel for a hard, smooth surface that holds up to daily use. If you're deciding whether paint is enough, see our guide on <a href=\"/refinish-vs-replace-cabinets\">refinishing versus replacing cabinets</a>."
+      ]
+    },
+    {
+      "h2": "What photos can't show you",
+      "body": [
+        "A finished photo looks the same whether the crew primed bare wood or skipped it, and whether the caulk is flexible sealant or cheap filler that will crack by next summer. Those differences only show up a few seasons later. That's why we put prep steps and product names in writing instead of asking you to trust a picture.",
+        "When you compare painters, ask each one what's under the finish in their photos. Did they wash and let it dry? Scrape to a sound edge? Spot-prime? How many coats? A clear, specific answer tells you more than any gallery. Our article on <a href=\"/exterior-paint-lifespan-florida\">how long exterior paint lasts in Florida</a> explains why prep makes such a difference over time."
+      ]
+    },
+    {
+      "h2": "See it on your own property",
+      "body": [
+        "Photos only go so far. The walkthrough is where we find out whether your siding, stucco, or cabinets need the same approach or a different one. <a href=\"/get-a-free-quote\">Request a free estimate</a> and a crew lead will come measure, photograph conditions, and write up a scope for your project."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I look for in a painter's photos?",
+      "a": "Look for straight cut lines at ceilings and trim, even sheen across big walls, caulk joints that read as one clean line, and no overspray on glass, hardware, roofing, or plants."
+    },
+    {
+      "q": "Are the gallery photos your own work?",
+      "a": "The gallery shows the kinds of projects our own crews handle: home exteriors, commercial storefronts, stucco, and cabinets. We don't subcontract our painting."
+    },
+    {
+      "q": "Can you tell me what products you would use on a project like one shown?",
+      "a": "Yes. Every estimate names the primer and topcoat product line and the number of coats, based on your surfaces and how much sun and weather they get."
+    }
+  ],
+  "related": [
+    "/exterior-painting",
+    "/cabinet-painting-refinishing",
+    "/commercial-painting",
+    "/stucco-repair-painting",
+    "/get-a-free-quote"
+  ]
+}

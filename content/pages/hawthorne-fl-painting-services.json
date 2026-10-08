@@ -1,0 +1,89 @@
+{
+  "path": "/hawthorne-fl-painting-services",
+  "type": "cityService",
+  "title": "Painting Services in Hawthorne, FL | All Services",
+  "description": "Painting services in Hawthorne, FL: interior, exterior, cabinets, decks, fences, washing, and drywall repair from one licensed crew on one written estimate.",
+  "h1": "Painting Services in Hawthorne, FL Under One Estimate",
+  "heroIntro": "This page lays out every painting and coating service we offer in Hawthorne and how they fit together on one property. One crew, one written scope, and one point of contact from the first walkthrough to the last touch-up.",
+  "keywords": {
+    "primary": "painting services hawthorne fl",
+    "secondary": [
+      "hawthorne fl painting and coating services",
+      "full service painter hawthorne",
+      "drywall repair and painting hawthorne fl",
+      "interior and exterior painting hawthorne"
+    ],
+    "questions": [
+      "What painting services are available in Hawthorne, FL?",
+      "Can one contractor handle washing, repairs, and painting together?",
+      "In what order should exterior work be scheduled?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Everything on a Hawthorne property, from the slab to the ceiling",
+      "body": [
+        "Property owners in Hawthorne rarely need just one thing. A lake house might need the siding washed, a few fascia boards replaced, the exterior repainted, and the deck stained, while the kitchen inside is waiting on new cabinet color. Our <strong>painting services in Hawthorne, FL</strong> are built so all of that can live on one itemized estimate instead of three separate contractors with three schedules.",
+        "Below is the full menu, grouped the way we usually sequence it on site."
+      ]
+    },
+    {
+      "h2": "Surface preparation and repair",
+      "bullets": [
+        "Pressure washing and soft washing for siding, drives, and decks",
+        "Drywall repair and patching, including nail pops",
+        "Stucco repair ahead of elastomeric coatings",
+        "Wallpaper removal and popcorn ceiling removal, with a dustless option",
+        "Rot and fascia replacement on wood trim"
+      ]
+    },
+    {
+      "h2": "Painting and staining",
+      "body": [
+        "Once surfaces are sound, the coating work begins. Inside, that means walls, ceilings, trim, doors, and <a href=\"/hawthorne-fl-interior-painting\">room-by-room interior repaints</a>. Outside, it covers siding, soffits, fascia, shutters, and masonry. Wood gets penetrating stains rather than paint wherever the grain should show, which is why <a href=\"/hawthorne-fl-deck-staining\">deck staining for Hawthorne yards</a> is quoted with its own prep steps."
+      ],
+      "bullets": [
+        "Interior and exterior residential painting",
+        "Commercial painting for offices, shops, churches, and schools",
+        "Cabinet painting and refinishing",
+        "Deck and fence staining, door and shutter painting",
+        "Concrete and masonry painting, garage floor epoxy and polyaspartic coatings",
+        "Decorative finishes such as limewash, venetian plaster, and metallics"
+      ]
+    },
+    {
+      "h2": "Why the order of work matters",
+      "body": [
+        "Washing always comes first, because <strong>mildew and pollen</strong> left on a wall will lift the new film. Carpentry repairs follow, then caulk and primer, then topcoats. Decks and fences are stained after the body of the house so drips and overspray land on unfinished wood, not on a fresh stain. Bundling the work lets us plan that sequence in a single mobilization, and our <a href=\"/services\">complete service list</a> explains each item in more depth.",
+        "The estimate names the Sherwin-Williams or Benjamin Moore line used on each surface. Two full coats are the baseline, and a third goes on porous substrates or big color changes. If you want to phase the work, the line items make it easy to do the exterior this season and the fence next spring."
+      ]
+    },
+    {
+      "h2": "Where to start",
+      "body": [
+        "If you are not sure what your property needs, ask for a walkthrough. A crew lead will flag what is urgent and what can wait. For the bigger picture of who we are in town, see our <a href=\"/locations/alachua-county/hawthorne\">Hawthorne painting contractor page</a>."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you handle washing, repairs, and painting on the same Hawthorne job?",
+      "a": "Yes. Washing, rot replacement, caulking, priming, and painting are all done by our own crews, and each step is listed on one estimate."
+    },
+    {
+      "q": "Do you offer specialty work like popcorn ceiling removal or epoxy floors?",
+      "a": "We do. Popcorn removal (including dustless removal), garage floor epoxy and polyaspartic coatings, and decorative finishes are all part of our service list."
+    },
+    {
+      "q": "Can I split a large project into phases?",
+      "a": "Yes. Because the quote is itemized, you can approve some line items now and schedule the rest later without re-pricing the whole job."
+    }
+  ],
+  "related": [
+    "/services",
+    "/locations/alachua-county/hawthorne",
+    "/hawthorne-fl-exterior-painting",
+    "/hawthorne-fl-pressure-washing",
+    "/specialty-services"
+  ]
+}

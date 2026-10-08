@@ -1,0 +1,59 @@
+{
+  "path": "/gainesville-fl-painting-services",
+  "type": "cityService",
+  "title": "Painting Services in Gainesville, FL: Full Scope",
+  "description": "Painting services in Gainesville, FL under one estimate: interiors, exteriors, cabinets, decks, washing, drywall, epoxy floors, and commercial repaints.",
+  "h1": "Painting Services in Gainesville, FL",
+  "heroIntro": "Got a Gainesville to-do list that runs from a pressure wash and fresh siding color to new-look cabinets and a scraped popcorn ceiling? One crew can map all of it into a single, sequenced job.",
+  "keywords": {
+    "primary": "painting services gainesville fl",
+    "secondary": ["gainesville painting and finishing services", "interior and exterior painting gainesville", "specialty painting services gainesville", "painting company services alachua county"],
+    "questions": ["What painting services are available in Gainesville, FL?", "Can one contractor handle painting, washing, and drywall repair in Gainesville?", "How do I combine several painting projects into one estimate?"]
+  },
+  "sections": [
+    {
+      "h2": "The whole menu, not just walls",
+      "body": [
+        "Most people searching for painting services in Gainesville have a list rather than a single task. A landlord near campus wants units turned over between leases. A family in Haile Plantation wants the exterior refreshed and the kitchen cabinets changed while the crew is already there. An owner of a Duckpond home needs rotten trim replaced before anything gets primed.",
+        "Beyond <strong>residential, interior, exterior, and commercial painting</strong> in Alachua County's biggest city, we take on the neighboring trades that tend to show up on the same list: refinishing cabinets, washing siding and roofs by pressure or soft wash, staining decks and fences, fixing drywall and cracked stucco, stripping wallpaper, and helping pick colors."
+      ]
+    },
+    {
+      "h2": "Core painting work in Gainesville",
+      "bullets": [
+        "<strong>Home repaints</strong> inside and out, room by room or whole-house: see our <a href=\"/gainesville-fl-residential-painting\">Gainesville residential painting</a> page",
+        "Lap siding, stucco walls, painted brick, and fascia trim, coated in 100% acrylic or, on moving stucco, elastomeric",
+        "Retail storefronts near campus, medical offices, restaurants, apartment complexes, and HOA clubhouses, booked around your open hours",
+        "Kitchen boxes, bath vanities, and doors finished in waterborne urethane enamel",
+        "Decks and fences: stripped, sanded, and stained or painted"
+      ]
+    },
+    {
+      "h2": "Specialty services that save a second contractor",
+      "body": [
+        "Older Gainesville homes, especially the postwar bungalows in the northwest part of town, often come with textured ceilings and dated wallpaper. Our crews scrape textured ceilings (dustless removal is available) and repaint them, as described on the <a href=\"/ceiling-painting-popcorn-removal\">popcorn removal and ceiling page</a>, and they peel old wallpaper before any patch or primer goes on. The same people also patch drywall, close stucco cracks, coat concrete and block, lay epoxy or polyaspartic on garage slabs, apply waterproofing and anti-graffiti coatings, and trowel decorative work like limewash or venetian plaster, with no subcontractor handoff.",
+        "Folding these into one schedule keeps the sequence right: ceilings before walls, drywall patches before primer, washing before exterior prep."
+      ]
+    },
+    {
+      "h2": "How a multi-service Gainesville project is priced",
+      "body": [
+        "There is no price sheet on this site. A Gainesville bid moves with square footage, how much scraping and patching the surfaces need, which paint line you pick, ladder or lift access, and the color count. So a crew lead tours the house, measures, and breaks the job into an <strong>itemized estimate</strong> with every service priced separately. Green-light the whole thing, or split it up, say siding before football season and cabinets once the holidays are over.",
+        "Each surface lists the exact product line beside it, and any extra work waits for your signature before it happens."
+      ]
+    },
+    {
+      "h2": "Timing across a combined scope",
+      "body": [
+        "Rough benchmarks: about a day per bedroom or living room, three days to two weeks for every room in the house, and three to seven working days for the outside, with wash and dry time added on. Stack services together and we line them up so no part of the home sits disrupted any longer than needed. Siding and trim go best between October and May, while cabinets, ceilings, and inside walls can happen any month. Wondering what comes first? Our <a href=\"/locations/alachua-county/gainesville\">Gainesville painters page</a> covers how we work across the city, and the <a href=\"/exterior-painting-secrets\">exterior painting guide</a> explains which projects to tackle first."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Will one Gainesville quote cover washing, painting, and cabinets together?", "a": "Yes. It will. Every task sits on a separate line within one written document, letting you sign off on the full package or pick which pieces to do now and which to save." },
+    { "q": "Do you handle rental and multi-family turnovers in Gainesville?", "a": "Yes. We do. Apartment turns and managed properties fall under our commercial work, and before the crew shows up we can send a certificate of insurance that names your management firm." },
+    { "q": "Which services make sense to combine?", "a": "A wash belongs right before any outside repaint. Inside, ceiling texture, wall patching, and wallpaper stripping all slot ahead of the new paint. Cabinets are often added while a kitchen is already being painted." },
+    { "q": "Can you use lower-odor paint inside?", "a": "Yes. Yes. We stock low-VOC, eco-conscious lines for indoor rooms, a help when people keep living or working in the space during the job." }
+  ],
+  "related": ["/services", "/specialty-services", "/locations/alachua-county/gainesville", "/gainesville-fl-exterior-painting", "/gainesville-fl-cabinet-refinishing"]
+}

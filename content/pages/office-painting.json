@@ -1,0 +1,95 @@
+{
+  "path": "/office-painting",
+  "type": "service",
+  "title": "Office Painting Contractor | North Central Florida",
+  "description": "After-hours office painting for suites, corridors, and conference rooms in North Central Florida, with workstations protected and scuff-resistant finishes.",
+  "h1": "Office Painting With No Downtime for Your Team",
+  "heroIntro": "Suites, corridors, conference rooms, and lobbies painted overnight. Your staff leaves at six, and the next morning the walls are done and every desk is where it was.",
+  "navLabel": "Office Painting",
+  "card": "Overnight office repaints with workstations protected and scuff-resistant finishes where walls wear.",
+  "keywords": {
+    "primary": "office painting contractor north central florida",
+    "secondary": [
+      "office painters gainesville fl",
+      "after hours office painting ocala",
+      "commercial office repaint",
+      "conference room painting",
+      "office suite painting florida"
+    ],
+    "questions": [
+      "Can an office be painted without employees missing work?",
+      "What paint finish is best for office walls?",
+      "How do you protect computers and furniture during office painting?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Office painting that happens while you are closed",
+      "body": [
+        "An office repaint should not cost you a day of work. As an <strong>office painting contractor in North Central Florida</strong>, we schedule by default for the hours your team is gone, typically between six in the evening and six in the morning, with weekends available for larger suites. Staff leave on Tuesday and come back Wednesday to fresh walls and the same desk setup they left, with no drop cloths or ladders in sight.",
+        "This page is specifically about office suites: professional offices, law and accounting firms, insurance and real estate offices, corporate floors, and shared office buildings. Clinics, childcare, and other sensitive occupied spaces are covered on our <a href=\"/commercial-interior-painting\">commercial interior painting</a> page, and the full range of business work is on our <a href=\"/commercial-painting\">commercial painting overview</a>."
+      ]
+    },
+    {
+      "h2": "Where office walls wear, and how we finish them",
+      "body": [
+        "Offices wear in the same places every time: walls at chair height behind desks, corridor corners where carts and people turn, the wall behind the printer and copier, the strip beside the coffee station, and door frames at the main entry. Those areas look tired years before the rest of the suite does.",
+        "We specify a <strong>scuff-resistant, washable finish</strong> in those zones even if the rest of the space gets a flatter sheen. That keeps the office looking maintained for the whole repaint cycle instead of just the first year. Conference rooms and private offices can take a lower-sheen finish that looks more refined under overhead lighting. If you are unsure which sheen goes where, our post on <a href=\"/paint-finish-for-any-room\">choosing paint finishes</a> explains the tradeoffs."
+      ],
+      "bullets": [
+        "Corridors and corners: washable, scuff-resistant finish",
+        "Break rooms and kitchenettes: easy-clean finish that handles splashes",
+        "Lobbies and reception: a durable finish with brand or accent color",
+        "Private offices and conference rooms: lower sheen for a cleaner look",
+        "Doors and frames: hard enamel that stands up to constant handling"
+      ]
+    },
+    {
+      "h2": "Protecting workstations, electronics, and files",
+      "body": [
+        "Office furniture and equipment are what make after-hours work tricky. Before the first night, we confirm keys, alarm procedures, and any restricted areas in writing. Desks are pulled out from walls and covered, monitors and computers are wrapped in place with cabling left connected where possible, and anything confidential stays where your team leaves it. We photograph each area before moving anything so it goes back exactly the same way.",
+        "Wall patching is done first, so dust is contained and cleaned up before any paint goes on. Dings, anchor holes from old artwork, and cracked corners are fixed through our <a href=\"/drywall-repair-patching\">drywall repair</a> work as part of the same scope."
+      ]
+    },
+    {
+      "h2": "A typical office repaint, night by night",
+      "body": [
+        "For a mid-size suite, the work usually runs in a predictable sequence. The first night covers protection and wall repair in the first zone. The next nights are paint, one zone at a time, with each area reset before the crew leaves. Common areas and the reception space are often saved for a weekend so the front of the office is never half-finished during business hours.",
+        "We use low-odor, low-VOC coatings so the space is comfortable when staff arrive. Two full coats is the baseline. If you are changing brand colors in the lobby or adding an accent wall, a <a href=\"/color-consultation\">color consultation</a> can help you choose colors that work under office lighting and with your logo.",
+        "Small offices are often simpler than people expect. A two- or three-room professional office can frequently be finished over a single weekend, with furniture back in place by Monday. Larger floors are broken into zones so that no department is ever without its workspace, and we agree on the order of zones with your office manager before we start."
+      ]
+    },
+    {
+      "h2": "Insurance, documentation, and closeout",
+      "body": [
+        "Building managers often require a certificate of insurance before contractors can work after hours. We provide one naming your entity or the building owner before mobilization. Our crews are our own employees, and every crew member is covered by workers' compensation. The same crew lead who walked the suite with you is on site each night, so there is one person to call if a plan changes.",
+        "At the end of the job, your office manager walks the suite with our crew lead and signs off. Anything not right is fixed first. We leave labelled touch-up paint and a list of colors and sheens by area, so future patches match. Offices in the city can find local notes on our <a href=\"/gainesville-fl-commercial-painting\">Gainesville commercial painting</a> page."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an office be painted without employees missing work?",
+      "a": "Yes. We work after hours, typically six in the evening to six in the morning, or on weekends, and reset each area before staff return."
+    },
+    {
+      "q": "What paint finish is best for office walls?",
+      "a": "A washable, scuff-resistant finish in corridors, break rooms, and behind desks, and a lower sheen in private offices and conference rooms. Doors and frames get a hard enamel."
+    },
+    {
+      "q": "How do you protect computers and furniture during office painting?",
+      "a": "Furniture is pulled from walls and covered, electronics are wrapped in place with cabling left connected where possible, and each area is photographed so it is reset exactly as it was."
+    },
+    {
+      "q": "Do you provide a certificate of insurance for our building manager?",
+      "a": "Yes. We provide a certificate naming your entity or the building owner before work begins."
+    }
+  ],
+  "related": [
+    "/commercial-interior-painting",
+    "/commercial-painting",
+    "/drywall-repair-patching",
+    "/color-consultation",
+    "/gainesville-fl-commercial-painting"
+  ]
+}

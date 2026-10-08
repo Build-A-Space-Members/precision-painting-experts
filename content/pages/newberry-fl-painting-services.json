@@ -1,0 +1,68 @@
+{
+  "path": "/newberry-fl-painting-services",
+  "type": "cityService",
+  "title": "Painting Services in Newberry, FL | Homes & Business",
+  "description": "Painting services in Newberry, FL from a Newberry-based crew: interiors, exteriors, cabinets, decks, fences, washing, drywall, and commercial work.",
+  "h1": "Painting Services in Newberry, FL",
+  "heroIntro": "Whether you just closed on a new build in Arbor Greens or you are restoring a house near downtown, here is every painting and finishing service our Newberry crews offer.",
+  "keywords": {
+    "primary": "painting services newberry fl",
+    "secondary": ["newberry fl painters services", "home painting services newberry", "commercial painting services newberry fl", "drywall and painting newberry fl"],
+    "questions": ["What painting services can I get in Newberry, FL?", "Can a Newberry painter also do drywall and pressure washing?", "Which painting projects should a new homeowner in Newberry do first?"]
+  },
+  "sections": [
+    {
+      "h2": "Services organized by where your property is in its life",
+      "body": [
+        "Rather than list every service alphabetically, it helps to think about what your Newberry property needs right now. The work for a two-year-old house in Newberry Oaks looks nothing like the work for a restored home in Downtown Newberry, and a storefront has its own priorities."
+      ]
+    },
+    {
+      "h2": "Newer homes: making the builder's house yours",
+      "bullets": [
+        "<strong>Interior repaints</strong> over builder-grade flat paint, with washable finishes",
+        "Cabinet refinishing to change a kitchen color without new cabinets",
+        "Accent walls, ceilings, and trim upgraded to enamel",
+        "Color consultation for whole-home palettes that flow through open plans",
+        "Garage floor epoxy and polyaspartic coatings",
+        "Drywall repair for settlement cracks and nail pops"
+      ]
+    },
+    {
+      "h2": "Older and historic homes: protection and repair",
+      "bullets": [
+        "Exterior repaints with scraping, sanding, and priming of bare wood",
+        "Rot and fascia replacement before paint",
+        "Wallpaper removal and popcorn ceiling removal, including dustless removal",
+        "Door, shutter, trim, and molding painting",
+        "Wood staining and finishing for porches, decks, and exposed wood"
+      ]
+    },
+    {
+      "h2": "Outside the walls",
+      "body": [
+        "Much of a Newberry property's upkeep happens away from the house itself. We <strong>soft wash and pressure wash</strong> siding, roofs, drives, and pavers; strip and stain decks; paint or stain fences; and coat concrete and masonry. Stucco cracks are repaired and coated with elastomeric. If drywall damage is the urgent problem, read our guide to <a href=\"/urgent-drywall-repair-newberry-fl\">urgent drywall repair in Newberry</a> or see our <a href=\"/drywall-repair-patching\">drywall repair and patching</a> service."
+      ]
+    },
+    {
+      "h2": "Businesses and community property",
+      "body": [
+        "As Newberry grows, so does its commercial work. We paint offices, retail and restaurant spaces, churches and schools, multi-family buildings, and HOA common areas, and we schedule around operating hours, including nights and weekends. Details are on our <a href=\"/newberry-fl-commercial-painting\">Newberry commercial painting</a> page."
+      ]
+    },
+    {
+      "h2": "One estimate, phased if you like",
+      "body": [
+        "A crew lead walks the property and writes an <strong>itemized estimate</strong>, with each service on its own lines and the product line named. You can approve all of it or spread the work out: the interior this summer, the exterior in the fall when the weather is more forgiving. Nothing is added later without your written approval. Prices depend on measured area, condition, product line, access, and the number of colors, which is why the walkthrough comes first.",
+        "Since we are based in Newberry, walkthroughs are usually scheduled within 48 hours. Learn more about who we are on our <a href=\"/locations/alachua-county/newberry\">Newberry painting contractor</a> page, or start with <a href=\"/newberry-fl-residential-painting\">residential painting in Newberry</a>."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "I just bought a new home in Newberry. What should I paint first?", "a": "Most new owners start with interior walls and trim in high-traffic areas, then cabinets or color changes. Exteriors on new homes can usually wait, but sun-facing walls and caulk joints are worth checking." },
+    { "q": "Do you do garage floor coatings?", "a": "Yes. We install garage floor epoxy and polyaspartic coatings in addition to painting." },
+    { "q": "Can you remove popcorn ceilings without dust everywhere?", "a": "Yes. We offer dustless popcorn removal and can paint the ceiling afterward." },
+    { "q": "Are your estimates free?", "a": "Yes. Estimates are free and come with no obligation." }
+  ],
+  "related": ["/services", "/specialty-services", "/locations/alachua-county/newberry", "/newberry-fl-interior-painting", "/garage-floor-epoxy-coating"]
+}

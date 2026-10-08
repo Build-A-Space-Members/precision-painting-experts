@@ -1,0 +1,60 @@
+{
+  "path": "/gainesville-fl-residential-painting",
+  "type": "cityService",
+  "title": "Residential Painting in Gainesville, FL Homes",
+  "description": "Residential painting in Gainesville, FL for historic districts, NW bungalows, and newer subdivisions. Own crews, written warranty, and free itemized quotes.",
+  "h1": "Residential Painting in Gainesville, FL",
+  "heroIntro": "A Pleasant Street home and a Town of Tioga home need different prep before the first coat goes on. We paint both, inside and out, while you keep living there.",
+  "keywords": {
+    "primary": "residential painting gainesville fl",
+    "secondary": ["house painting gainesville", "home painters gainesville fl", "whole house repaint gainesville", "residential painter haile plantation"],
+    "questions": ["Do I need to move out while my Gainesville house is painted?", "How is painting an older Gainesville home different from a newer one?", "Is residential painting in Gainesville covered by a warranty?"]
+  },
+  "sections": [
+    {
+      "h2": "One city, three kinds of houses",
+      "body": [
+        "Gainesville homes fall roughly into three groups, and each has its own trouble spots.",
+        "In the historic <strong>Duckpond and Pleasant Street</strong> districts, the house is often older than any coating on it. Expect layered paint, wood that has shrunk and swelled for decades, and windows and doors worth saving. Prep there means scraping to a sound edge, sanding, and priming bare wood before any finish coat.",
+        "The <strong>postwar bungalows in NW Gainesville</strong> are smaller and simpler, but their eaves, sills, and lower siding boards take a beating from splash-back and gutters. Rot and fascia replacement is a common line item.",
+        "Newer construction in Haile Plantation and Town of Tioga usually needs less repair and more planning: matching existing colors, meeting community guidelines, and upgrading tired builder paint to a film that actually wipes clean."
+      ]
+    },
+    {
+      "h2": "Inside and outside on the same estimate",
+      "body": [
+        "Many homeowners start by asking about one side of the house and realize the other needs attention too. We write <a href=\"/gainesville-fl-interior-painting\">interior work</a> and <a href=\"/gainesville-fl-exterior-painting\">exterior repaints</a> on one itemized estimate, with surfaces included and excluded spelled out. That lets you schedule the outside for the dry months and move indoors when summer storms arrive. Our general <a href=\"/residential-painting\">residential painting</a> page explains the full system, and the <a href=\"/locations/alachua-county/gainesville\">Gainesville location page</a> lists every neighborhood we cover."
+      ]
+    },
+    {
+      "h2": "Living at home while we paint",
+      "body": [
+        "You do not need to leave. Crews move and protect furniture, work one room at a time, and clean up as they go so the rest of the house stays usable. Low-VOC options keep odors down, which matters for families with kids, pets, or someone working from home.",
+        "Outside, we cover plantings, protect walkways, and plan the order of elevations so doors you use every day are back in service quickly."
+      ]
+    },
+    {
+      "h2": "Products and coats",
+      "bullets": [
+        "<strong>100% acrylic</strong> on wood and fiber-cement siding and trim",
+        "Elastomeric on stucco walls that show hairline movement",
+        "Waterborne urethane enamel on doors, railings, and cabinets",
+        "Two full coats as the baseline; a third for dramatic color changes or porous surfaces",
+        "Premium Sherwin-Williams or Benjamin Moore lines, named on your estimate"
+      ]
+    },
+    {
+      "h2": "After the last coat",
+      "body": [
+        "Before the job closes, you walk the house with the crew lead and sign a punch list. Anything not right is corrected first. Exterior projects carry a <strong>written workmanship warranty of up to 10 years</strong> on top of the manufacturer's warranty, and labelled touch-up paint stays in your garage. If you own an older home and want period-sensitive colors, our article on <a href=\"/gainesville-historic-paint-colors\">historic paint colors in Gainesville</a> is a good place to start."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Will you replace rotten trim on my Gainesville bungalow?", "a": "Yes. Rot and fascia replacement is part of our prep work. The crew lead documents it at the walkthrough and it appears as its own line on the estimate." },
+    { "q": "How long does a whole-home repaint take?", "a": "A whole-home interior usually takes three days to two weeks. A full exterior generally takes three to seven working days plus washing and dry time." },
+    { "q": "Do you help with HOA color rules in newer Gainesville neighborhoods?", "a": "Yes. We can match your community's approved colors from a chip or existing surface and provide full-size drawdowns to include with an approval request." },
+    { "q": "Is the estimate free?", "a": "Yes. Estimates are free with no obligation, and the written quote usually arrives within one business day of the walkthrough." }
+  ],
+  "related": ["/residential-painting", "/locations/alachua-county/gainesville", "/gainesville-fl-color-consultation", "/gainesville-fl-cabinet-refinishing", "/gainesville-historic-paint-colors"]
+}

@@ -1,0 +1,80 @@
+{
+  "path": "/ocala-fl-pressure-washing",
+  "type": "cityService",
+  "title": "Pressure Washing in Ocala, FL | Soft Wash & Concrete",
+  "description": "Pressure washing and soft washing in Ocala, FL for siding, stucco, drives, and walkways. Mildew and algae removed safely, alone or before a paint job.",
+  "h1": "Pressure Washing and Soft Washing in Ocala, FL",
+  "heroIntro": "Ocala's humidity grows mildew and algae on shaded walls and concrete. We match the cleaning method to the surface, so dirt comes off and coatings stay intact.",
+  "keywords": {
+    "primary": "pressure washing ocala fl",
+    "secondary": [
+      "soft washing ocala",
+      "house washing ocala",
+      "driveway cleaning ocala",
+      "mildew removal siding ocala"
+    ],
+    "questions": [
+      "What is the difference between soft washing and pressure washing?",
+      "Should I pressure wash my Ocala house before painting?",
+      "Will pressure washing damage my stucco or paint?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Soft wash or high pressure: choosing by surface",
+      "body": [
+        "Not every surface should get the same treatment. Painted siding, stucco, and trim are cleaned with a <strong>soft wash</strong>: a low-pressure application of cleaning solution that kills mildew and algae at the root, followed by a gentle rinse. High pressure is saved for hard, unpainted surfaces like concrete drives and walkways, where it lifts embedded grime that a soft wash cannot.",
+        "Using too much pressure on painted stucco or older wood trim, like the kind common in Ocala's historic districts, can etch the surface or drive water behind siding. That is why our crews choose the method before the hose comes off the truck."
+      ],
+      "bullets": [
+        "Soft wash: painted siding, stucco, trim, soffits, and fascia",
+        "Pressure wash: concrete drives, walkways, and pool decks",
+        "Gentle cleaning for decks and fences ahead of staining"
+      ]
+    },
+    {
+      "h2": "Where Ocala homes get dirtiest",
+      "body": [
+        "Shaded north walls and the lower stretch of stucco near sprinkler heads collect the most green and black growth. Spring pollen leaves a yellow film on screens, sills, and light-colored walls. In neighborhoods with large trees, sap and leaf debris stain walkways. Our guides to <a href=\"/mold-on-siding-guide\">mold and mildew on siding</a> and <a href=\"/clean-florida-pollen-stains\">cleaning Florida pollen stains</a> explain what each stain is and why it keeps coming back.",
+        "On larger horse properties, washing can include barn walls, fence lines, and outbuildings. We plan water use and access with you and choose soft wash or pressure for each surface, just as we would on the main house."
+      ]
+    },
+    {
+      "h2": "Washing as the first step of a paint job",
+      "body": [
+        "<strong>Pressure washing in Ocala, FL</strong> is also the first prep day of nearly every exterior project we do. Paint applied over mildew or chalk does not bond, and the failure shows up early. On a repaint, washing removes chalk and growth, reveals cracks and soft spots that need repair, and gives the surface time to dry before primer. Pairing washing with <a href=\"/ocala-fl-exterior-painting\">exterior painting in Ocala</a> keeps it all on one schedule and one estimate."
+      ]
+    },
+    {
+      "h2": "Protecting plantings and property",
+      "body": [
+        "Before cleaning, crews cover or pre-wet plantings, close windows, and protect outlets and fixtures. Low-VOC and eco-conscious options are available. You get a written scope that lists every surface we will clean. For more on the service itself, see our main <a href=\"/pressure-washing\">pressure washing and soft washing</a> page or the <a href=\"/locations/marion-county/ocala\">Ocala location page</a>."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you only pressure wash before painting, or can I book cleaning by itself?",
+      "a": "Either. We offer washing as a standalone service and as the first prep step of paint and stain projects."
+    },
+    {
+      "q": "Is pressure washing safe for my Ocala stucco?",
+      "a": "We soft wash painted stucco rather than blasting it with high pressure, which avoids etching the surface or forcing water into cracks."
+    },
+    {
+      "q": "Can you clean my driveway and the house on the same visit?",
+      "a": "Yes. We use a soft wash on the house and pressure on the concrete, both listed on the same written estimate."
+    },
+    {
+      "q": "How soon can you paint after washing my Ocala home?",
+      "a": "The surface needs time to dry first. We build drying time into the schedule between the wash and the first coat, and we check conditions before priming."
+    }
+  ],
+  "related": [
+    "/pressure-washing",
+    "/locations/marion-county/ocala",
+    "/ocala-fl-exterior-painting",
+    "/mold-on-siding-guide",
+    "/clean-florida-pollen-stains"
+  ]
+}

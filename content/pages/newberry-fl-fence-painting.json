@@ -1,0 +1,58 @@
+{
+  "path": "/newberry-fl-fence-painting",
+  "type": "cityService",
+  "title": "Fence Painting & Staining in Newberry, FL",
+  "description": "Fence staining and painting in Newberry, FL for privacy, picket, and vinyl fences. Washed, repaired, matched to HOA colors, sprayed and back-brushed.",
+  "h1": "Fence Painting & Staining in Newberry, FL",
+  "heroIntro": "New privacy fences that need their first coat, older fences gone silver, and vinyl that has lost its color: our Newberry crews handle all three.",
+  "keywords": {
+    "primary": "fence painting newberry fl",
+    "secondary": ["fence staining newberry fl", "privacy fence stain newberry fl", "hoa fence color newberry", "vinyl fence restoration newberry"],
+    "questions": ["Does a new wood fence in Newberry need to be stained?", "Can you match my HOA's required fence color?", "How long does fence stain last in Florida?"]
+  },
+  "sections": [
+    {
+      "h2": "Protecting a new fence from day one",
+      "body": [
+        "Newberry's newer subdivisions mean a lot of recently built wood fences. New boards look good for a season, then sun and rain start working on them: graying, cupping, splitting, and mildew at the base. A <strong>penetrating stain</strong> applied once the wood has dried slows all of that down.",
+        "We check moisture first, since new treated lumber is often too wet to absorb stain right away, then clean and coat it. Starting early means less prep and fewer replaced boards later.",
+        "Pay attention to the bottom rail and the first few inches of each picket. On new lots, sprinklers are often set to reach the property line, which means the fence gets soaked every morning. Adjusting the heads away from the boards before staining is one of the cheapest ways to make the finish last."
+      ]
+    },
+    {
+      "h2": "HOA colors and uniform fence lines",
+      "body": [
+        "Communities like Arbor Greens, Newberry Oaks, and Country Way may set the color or opacity allowed on fences facing the street. We match the approved color from a chip or an existing fence, and we can provide a <strong>full-size drawdown</strong> for the approval request. Our <a href=\"/newberry-fl-color-consultation\">color consultation in Newberry</a> can help if you are choosing from a list."
+      ]
+    },
+    {
+      "h2": "Older fences: repair before coating",
+      "bullets": [
+        "Re-fasten loose pickets and rails; replace broken or rotted boards",
+        "Fix sagging gates and hardware",
+        "Wash and mildew treatment, with landscaping protected",
+        "Sand or brighten sun-grayed fibers so stain soaks in",
+        "Sprayed and back-brushed for full coverage on rough wood"
+      ]
+    },
+    {
+      "h2": "Stain or paint?",
+      "body": [
+        "For most wood fences, stain is the better choice: it soaks in, wears gradually, and recoats easily. Paint makes sense on picket fences around restored homes near downtown where the fence matches house trim, or on fences that are already painted. In those cases we use primer on bare wood and 100% acrylic topcoats. Faded vinyl can be cleaned and coated with a product made for vinyl, keeping colors light enough to avoid heat warping.",
+        "For a closer look at sun damage, read <a href=\"/treat-sun-damaged-wood-fence-alachua\">treating sun-damaged wood fences in Alachua County</a>."
+      ]
+    },
+    {
+      "h2": "Scheduling and combining",
+      "body": [
+        "Fences are usually washed one day and stained once they dry. Long or tall fences, both-side coverage, and repairs extend the schedule, all shown on the estimate. Since decks age alongside fences, many owners pair this with <a href=\"/newberry-fl-deck-staining\">Newberry deck staining</a>. The full product guide is on our <a href=\"/deck-fence-staining-florida\">Florida deck and fence staining</a> page, and our <a href=\"/locations/alachua-county/newberry\">Newberry hub</a> lists every local service."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Do you stain both sides of the fence?", "a": "When access allows and you approve it, yes. The estimate says which sides are included, and you coordinate any neighbor access." },
+    { "q": "How long does fence stain last?", "a": "It depends on sun exposure and opacity. Solid stains last longer than transparent ones, and shaded sections hold up better than sunny ones." },
+    { "q": "Can you paint a vinyl fence?", "a": "Yes, with a coating designed for vinyl. We recommend staying at or lighter than the original color to avoid heat distortion." }
+  ],
+  "related": ["/deck-fence-staining-florida", "/locations/alachua-county/newberry", "/newberry-fl-deck-staining", "/treat-sun-damaged-wood-fence-alachua", "/newberry-fl-pressure-washing"]
+}

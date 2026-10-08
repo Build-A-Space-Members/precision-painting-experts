@@ -1,0 +1,80 @@
+{
+  "path": "/terms-and-conditions",
+  "type": "core",
+  "title": "Terms & Conditions | Precision Paint Experts",
+  "description": "The terms that apply to using the Precision Paint Experts website and estimate forms, and how painting work is agreed in a separate written contract.",
+  "h1": "Terms and Conditions",
+  "heroIntro": "Effective date: October 8, 2026. These terms cover your use of this website. Painting work is covered by a separate written agreement.",
+  "keywords": {
+    "primary": "precision paint experts terms and conditions",
+    "secondary": [
+      "website terms of use painting contractor",
+      "painting estimate terms",
+      "florida painting contractor website terms"
+    ],
+    "questions": [
+      "Is a website estimate request a binding contract?",
+      "What terms govern painting work with Precision Paint Experts?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Accepting these terms",
+      "body": [
+        "This website is operated by Precision Paint Experts, LLC, based in Newberry, FL 32669. By using the site, you agree to these terms. If you don't agree, please don't use the site. We may update these terms from time to time, and the version posted on this page applies from its effective date."
+      ]
+    },
+    {
+      "h2": "Information on this site",
+      "body": [
+        "Our service descriptions, guides, and <a href=\"/our-blog\">blog articles</a> are general information about painting and surface care in North Central Florida. They aren't a site-specific recommendation, and every property is different. Product names, timelines, and typical durations we mention describe how we usually work. They aren't a promise for any particular project. If you try a repair yourself based on something you read here, you do so at your own risk. Follow the manufacturer's instructions and safety guidance."
+      ]
+    },
+    {
+      "h2": "Estimate requests are not contracts",
+      "body": [
+        "Sending a form, email, or phone request doesn't create a contract or obligate either of us. Estimates are free and come with no obligation. Our <a href=\"/get-a-free-quote\">estimate request page</a> describes that process. Price, scope, products, schedule, payment terms, and warranty terms for any project are set only in a written estimate or agreement that you accept. If a written project agreement conflicts with this page, the written agreement controls. No work is added to a project without your written approval."
+      ]
+    },
+    {
+      "h2": "Warranty terms",
+      "body": [
+        "Any workmanship warranty, including coverage of up to 10 years on exterior projects, applies only as written in your project documents. Manufacturer product warranties are provided by the manufacturer under its own terms. Nothing on this website extends, changes, or replaces the written warranty for a specific job."
+      ]
+    },
+    {
+      "h2": "Acceptable use",
+      "body": [],
+      "bullets": [
+        "Submit only accurate information and only on your own behalf or with permission",
+        "Don't use the forms to send spam, advertising, or harmful code",
+        "Don't attempt to interfere with the site's operation or security",
+        "Don't copy or republish site content for commercial use without our permission"
+      ]
+    },
+    {
+      "h2": "Content ownership and outside links",
+      "body": [
+        "The text, photos, logos, and design of this site belong to Precision Paint Experts, LLC or are used with permission. You may share links to our pages and print pages for personal use. Links to other websites are provided for convenience, and we're not responsible for their content or practices."
+      ]
+    },
+    {
+      "h2": "Limitation of liability",
+      "body": [
+        "This website is provided \"as is.\" We try to keep it accurate and available, but we don't guarantee that it will be error-free or uninterrupted. To the extent the law allows, Precision Paint Experts, LLC is not liable for any loss arising from use of the website itself. Responsibilities for painting work are set out in the written project agreement."
+      ]
+    },
+    {
+      "h2": "Governing law and contact",
+      "body": [
+        "These terms are governed by the laws of the State of Florida. Questions about these terms can go to info@precisionpaintexperts.com or (386) 854-7139. How we handle personal information is explained in our <a href=\"/privacy-policy\">privacy policy</a>."
+      ]
+    }
+  ],
+  "faqs": [],
+  "related": [
+    "/privacy-policy",
+    "/contact-us",
+    "/get-a-free-quote"
+  ]
+}

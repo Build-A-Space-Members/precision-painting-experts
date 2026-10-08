@@ -1,0 +1,89 @@
+{
+  "path": "/get-a-free-quote",
+  "type": "core",
+  "title": "Free Painting Estimate | Precision Paint Experts",
+  "description": "Request a free, no-obligation painting estimate in Gainesville, Ocala, or North Central Florida. A crew lead walks the property and sends an itemized quote.",
+  "h1": "Request a Free Painting Estimate",
+  "heroIntro": "Tell us about your project using the form. A crew lead will set up a walkthrough, usually within 48 hours, and send you a written, itemized quote.",
+  "keywords": {
+    "primary": "free painting estimate gainesville ocala",
+    "secondary": [
+      "painting quote north central florida",
+      "free house painting estimate",
+      "itemized painting estimate",
+      "request a painting quote online"
+    ],
+    "questions": [
+      "What information do painters need for an estimate?",
+      "How long does it take to get a painting quote?",
+      "Is a painting estimate really free?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What to put in the form",
+      "body": [
+        "The form asks for your name, email, phone, city, the service you need, and a project description. The more detail you give us in that last box, the more useful our first call will be. Helpful things to include:"
+      ],
+      "bullets": [
+        "Property type: house, condo, rental, office, storefront, restaurant, HOA, church, or school",
+        "Interior, exterior, or both, plus roughly how many rooms or sides of the building",
+        "Trouble spots you've noticed, like peeling, mildew, soft wood, stucco cracks, or water stains",
+        "Whether you've picked colors yet or want help choosing",
+        "Your preferred timing and any dates we need to work around"
+      ]
+    },
+    {
+      "h2": "What happens after you send it",
+      "body": [
+        "A crew lead, not a salesperson, will get in touch to schedule a walkthrough, usually within 48 hours. On site we measure each room or side of the building, photograph conditions, and take moisture readings where things look questionable. We're looking at the surfaces themselves: chalky siding, a fascia board peeling at the bottom edge, a shower wall with a bubble in it. The quote should match the building you actually have.",
+        "Your <strong>written, itemized estimate</strong> usually arrives within one business day after the walkthrough. It lists surfaces included and excluded, each prep step, the primer and topcoat products by name, the number of coats, and the schedule. Nothing gets added later without your written approval."
+      ]
+    },
+    {
+      "h2": "Why our free painting estimate is itemized",
+      "body": [
+        "Our <strong>free painting estimate for Gainesville, Ocala</strong>, and the surrounding towns breaks the work into line items because that makes it easy to compare with other bids. You can see where the money goes, so you can change the scope if the budget needs to change. One option is to paint the whole exterior now and <a href=\"/deck-fence-staining\">stain the deck</a> next season. Another is to use a premium product line only on the walls that get the hardest afternoon sun.",
+        "Price depends on measured area, surface condition and prep, product line, access and height, and number of colors. That's why we don't give phone quotes or publish price lists. If you want to understand those factors before we visit, our <a href=\"/our-faq\">painting FAQ</a> goes through them."
+      ]
+    },
+    {
+      "h2": "Photos help, but they don't replace the visit",
+      "body": [
+        "Photos are a great way to show us a problem spot, like a peeling soffit or a cracked wall, and we'll gladly look at any you send by email. Still, we don't give final prices from photos. Moisture readings, soft wood, chalky siding, and the true size of the job only show up on site, and those are the things that change a quote. A number based on photos would be a guess, and we'd rather give you a real price once.",
+        "If you're torn between colors, mention that in the form. Color choice can be part of the same visit. Our <a href=\"/color-consultation\">color consultation</a> uses full-size drawdowns so you can see a color in your own light before it goes on the walls."
+      ]
+    },
+    {
+      "h2": "Prefer to talk first?",
+      "body": [
+        "Call <strong>(386) 854-7139</strong> Monday through Friday, 9:00 AM to 6:30 PM, or email info@precisionpaintexperts.com. We cover 15 cities across five counties. Our <a href=\"/service-areas\">service area page</a> lists them all. If you're still deciding what work you need, browse our <a href=\"/services\">full list of painting services</a> first."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the estimate really free?",
+      "a": "Yes. The walkthrough and the written estimate are both free, and you're under no obligation to hire us."
+    },
+    {
+      "q": "How soon will I get my quote?",
+      "a": "Walkthroughs are usually scheduled within 48 hours. The written, itemized quote usually arrives within one business day after that."
+    },
+    {
+      "q": "Do I need to be home for the walkthrough?",
+      "a": "For interior work, yes, so we can get inside. For exterior-only projects, ask when we call to schedule. Either way, being there lets you point out the spots that concern you."
+    },
+    {
+      "q": "How soon could the work start?",
+      "a": "Most projects start one to three weeks after you approve the estimate. The exact dates are written into the schedule."
+    }
+  ],
+  "related": [
+    "/contact-us",
+    "/our-faq",
+    "/services",
+    "/color-consultation",
+    "/about-us"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "path": "/services",
+  "type": "core",
+  "title": "Painting Services in North Central Florida",
+  "description": "Residential, commercial, cabinet, exterior, staining, and specialty painting services across Gainesville, Ocala, and 13 more North Central Florida cities.",
+  "h1": "Painting Services for North Central Florida Homes and Businesses",
+  "heroIntro": "Interior, exterior, commercial, cabinets, decks, floors, and repairs: every category below is done by people on our payroll. Pick your project and read how we'd plan it.",
+  "keywords": {
+    "primary": "painting services north central florida",
+    "secondary": [
+      "residential and commercial painting services",
+      "house painting services gainesville",
+      "painting services ocala fl",
+      "full service painting company florida",
+      "interior and exterior painting services"
+    ],
+    "questions": [
+      "What painting services does a full-service painting company offer?",
+      "Can one contractor handle painting, drywall repair, and pressure washing?",
+      "How do I choose between residential and commercial painting services?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Painting services built around the whole property",
+      "body": [
+        "Most painting projects involve more than paint. An exterior repaint may need soft washing first, some fascia replaced, and a deck stained afterward. A kitchen update can grow to include cabinets, a ceiling, and the trim around a new window. We organized our <strong>painting services across North Central Florida</strong> so that a single crew carries the whole list, working off one calendar and one itemized quote. You won't be lining up three trades and hoping they show up in order.",
+        "The business is owned here, and the work spreads over five counties: Alachua, Marion, Levy, Columbia, and Gilchrist. Nobody on your property is a subcontractor; everyone there works for us. This page sorts the work into three groups so you can find what fits, and each listing below opens a dedicated page about its prep, product choices, and timeline."
+      ]
+    },
+    {
+      "h2": "Residential painting services",
+      "body": [
+        "For houses, the core work is <a href=\"/residential-painting\">residential painting inside and out</a>. Interiors get patched drywall, hand-cut lines, and low-VOC options if you're sensitive to odor. Plan on roughly a day for one bedroom; repainting every room in a house runs anywhere from three days to two weeks, with square footage and repair count setting where you land. Exteriors start with a wash and a slow, careful look at sills, fascia, and caulk joints, because in this humidity water gets in wherever paint has let go.",
+        "Beyond walls and siding, the residential list includes kitchen cabinets finished in a waterborne urethane enamel, <a href=\"/deck-fence-staining\">deck and fence staining</a> using stains that soak into the wood, pressure and soft washing, and color help in your own rooms. If a single surface is the whole project, like a front door, a run of shutters, or a set of stair railings, we take those jobs too."
+      ]
+    },
+    {
+      "h2": "Commercial and institutional painting",
+      "body": [
+        "For businesses, every hour of disruption is part of what the repaint costs. We book <a href=\"/commercial-painting\">commercial painting projects</a> for the hours you're closed, nights and weekends included, so offices stay staffed, dining rooms stay open, and classrooms are ready on Monday. Clients range from storefronts, cafes, and office suites to warehouses, plants, congregations, school campuses, apartment complexes, and HOA neighborhoods.",
+        "Property managers and boards often need paperwork before anyone touches a ladder. Before the crew shows up, your association or company receives an insurance certificate listing it by name, and the line-by-line scope gives a board something concrete to approve."
+      ]
+    },
+    {
+      "h2": "Repairs, specialty coatings, and finishes",
+      "body": [
+        "Some jobs are mostly about the surface underneath. Patching drywall, scraping popcorn ceilings (a dustless method is available), stripping wallpaper, and fixing stucco cracks all happen before paint and decide how good the finish looks. Other jobs call for a coating system, not a standard repaint: <a href=\"/garage-floor-epoxy-coating\">epoxy and polyaspartic garage floors</a>, waterproofing, anti-graffiti coatings, and concrete and masonry paint.",
+        "Decorative clients ask us for limewash, venetian plaster, or metallic effects, and woodwork like doors, beams, and millwork can be stained and clear-coated. Our <a href=\"/specialty-services\">specialty services overview</a> explains when each one makes sense."
+      ]
+    },
+    {
+      "h2": "One method behind all of these services",
+      "body": [
+        "Whatever the project, it begins the same way: a crew lead, not a salesperson, comes out to measure, take photos of the current condition, and check moisture where readings are useful. Your quote then spells out which product line we'll use, how many coats go on, and each prep task. <strong>Two full coats is the baseline</strong>, and a third goes on when a color swing is dramatic or the substrate drinks paint.",
+        "Once a project is in focus, <a href=\"/get-a-free-quote\">request a free painting estimate</a>. Still weighing options? Browse the complete service list below first."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you handle both residential and commercial painting?",
+      "a": "Yes. On the residential side that means single-family houses, condos, and rentals; on the commercial side it means offices, shops, restaurants, warehouses, churches, schools, apartment complexes, and HOA-managed properties. Business jobs are timed so they don't interrupt your open hours."
+    },
+    {
+      "q": "Can you do the repairs before you paint?",
+      "a": "Yes. Drywall patching, nail pops, rotted fascia, stucco cracks, and fresh caulk are handled by the same crew as prep work. Every one of those repairs appears as its own line on the quote, so nothing about the scope is hidden."
+    },
+    {
+      "q": "What paint products do you use?",
+      "a": "Premium Sherwin-Williams and Benjamin Moore products, chosen per surface. Siding and trim get 100% acrylic, stucco with hairline movement gets elastomeric, cabinets and doors get a waterborne urethane enamel, and exposed wood gets a penetrating stain. Whichever line we pick is written into your quote by name."
+    },
+    {
+      "q": "Are your service prices listed anywhere?",
+      "a": "No. The number comes from the measured square footage, how much prep the surfaces need, which product line you choose, how high and hard to reach the work is, and how many colors are involved. A free written quote follows the walkthrough."
+    }
+  ],
+  "related": [
+    "/residential-painting",
+    "/interior-painting",
+    "/exterior-painting",
+    "/commercial-painting",
+    "/specialty-services",
+    "/cabinet-painting-refinishing"
+  ]
+}

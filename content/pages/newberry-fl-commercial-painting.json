@@ -1,0 +1,59 @@
+{
+  "path": "/newberry-fl-commercial-painting",
+  "type": "cityService",
+  "title": "Commercial Painting in Newberry, FL | Local Crews",
+  "description": "Commercial painting in Newberry, FL for downtown storefronts, offices, churches, schools, and HOA common areas. Nights and weekends, COI before we start.",
+  "h1": "Commercial Painting in Newberry, FL",
+  "heroIntro": "A growing town needs its storefronts, offices, and community buildings to keep up. Our Newberry-based crews paint them without shutting you down.",
+  "keywords": {
+    "primary": "commercial painting newberry fl",
+    "secondary": ["commercial painters newberry", "storefront painting newberry fl", "hoa common area painting newberry", "church and school painting newberry"],
+    "questions": ["Can a commercial painter in Newberry work outside business hours?", "Do you paint HOA amenities and common areas?", "What insurance do you carry for commercial jobs?"]
+  },
+  "sections": [
+    {
+      "h2": "Who we paint for in Newberry",
+      "body": [
+        "Newberry's commercial work is a mix of small businesses near downtown, offices and service businesses serving the town's growth, churches and schools, and the community property that comes with new subdivisions. We take on <strong>offices, retail and restaurant spaces, warehouses, churches and schools, multi-family buildings, and HOA and property-management work</strong>.",
+        "Being based in Newberry means a property manager or business owner can usually get a walkthrough within 48 hours, and small follow-up items do not wait for a crew to be in the area."
+      ]
+    },
+    {
+      "h2": "Keeping the business open",
+      "body": [
+        "Commercial painting is scheduled around operating hours. That can mean <strong>night or weekend shifts</strong>, starting with the back office while the sales floor stays open, or phasing a building wing by wing. Low-VOC products are available for occupied spaces, and work areas are cleaned each day so you can open on time.",
+        "For a downtown storefront, exterior work is usually planned for slower hours, with walkways kept clear and signage protected.",
+        "Churches and schools have their own calendars. Sanctuaries and fellowship halls are often painted between weekend services, and classrooms during breaks, so the space is cured and aired out before people return. Tell us the dates that cannot move, and the proposal will be built around them. Our <a href=\"/church-educational-facility-painting\">church and school painting</a> page has more detail."
+      ]
+    },
+    {
+      "h2": "HOA and subdivision common areas",
+      "body": [
+        "Newberry's new-construction subdivisions bring amenity buildings, entry walls, mailbox structures, and fencing that associations need to keep consistent. We match existing community colors, coat masonry and stucco entry features, and stain or paint perimeter fencing. Board members and managers can read our guide to <a href=\"/hoa-licensed-painters-guide\">hiring licensed painters for an HOA</a>, and our <a href=\"/hoa-property-management-painting\">HOA and property management painting</a> page outlines the process for larger portfolios."
+      ]
+    },
+    {
+      "h2": "What commercial clients receive",
+      "bullets": [
+        "<strong>Certificate of insurance</strong> naming your entity before mobilization",
+        "Licensed, bonded, and fully insured in Florida; workers' comp on every crew member",
+        "Our own crews, never subcontractors",
+        "Written, itemized scope with products, coats, and schedule",
+        "Single point of contact from walkthrough to final punch walk"
+      ]
+    },
+    {
+      "h2": "Surfaces and specialty coatings",
+      "body": [
+        "Beyond walls and trim, commercial jobs often include <a href=\"/concrete-masonry-painting\">concrete and masonry coatings</a>, metal doors and railings in urethane enamel, waterproofing on exposed walls, and epoxy floor coatings for shops and service bays. Pressure washing before painting is part of every exterior; standalone <a href=\"/newberry-fl-pressure-washing\">commercial pressure washing in Newberry</a> is also available.",
+        "For residential work and more about our hometown, visit the <a href=\"/locations/alachua-county/newberry\">Newberry painting contractor</a> page."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Can you paint our Newberry business on weekends?", "a": "Yes. Commercial projects can be scheduled on nights and weekends, or phased so part of the space stays open." },
+    { "q": "Do you work for HOAs in Newberry's newer subdivisions?", "a": "Yes. We paint amenity buildings, entry features, and fencing, and can issue a certificate of insurance naming the association." },
+    { "q": "How soon can a commercial project start?", "a": "Most projects begin one to three weeks after approval. Tell us about any hard deadline at the walkthrough so the schedule is built around it." }
+  ],
+  "related": ["/commercial-painting", "/hoa-property-management-painting", "/church-educational-facility-painting", "/newberry-fl-painting-services", "/hoa-licensed-painters-guide"]
+}

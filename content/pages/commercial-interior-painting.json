@@ -1,0 +1,101 @@
+{
+  "path": "/commercial-interior-painting",
+  "type": "service",
+  "title": "Commercial Interior Painting | North Central Florida",
+  "description": "Commercial interior painting for occupied buildings in North Central Florida: dust control, low-VOC coatings, night and weekend crews, tenant coordination.",
+  "h1": "Commercial Interior Painting for Occupied Buildings",
+  "heroIntro": "Interior repaints for buildings that stay open: clinics, offices, shops, and multi-tenant properties. Low-odor coatings, contained work zones, and rooms reset before morning.",
+  "navLabel": "Commercial Interiors",
+  "card": "Low-odor, after-hours interior painting for clinics, suites, and multi-tenant buildings that stay open.",
+  "keywords": {
+    "primary": "commercial interior painting contractor",
+    "secondary": [
+      "commercial interior painters gainesville fl",
+      "medical office painting florida",
+      "low-voc commercial painting",
+      "after-hours interior painting ocala",
+      "multi-tenant building painting"
+    ],
+    "questions": [
+      "Can you paint a medical or dental office without closing?",
+      "How do you control dust and odor in an occupied building?",
+      "Do you coordinate with multiple tenants?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Interior work that people barely notice",
+      "body": [
+        "The best compliment on a <strong>commercial interior painting</strong> job is that staff came in the next morning and the only thing different was the walls. That takes planning: dust has to be contained, odor kept low, equipment protected, and every room put back exactly as it was. This page covers how we handle occupied interiors across facility types. For the broader picture, including exteriors, see our <a href=\"/commercial-painting\">commercial painting overview</a>.",
+        "We work inside clinics, dental and medical offices, childcare centers, professional suites, retail floors, common areas in multi-tenant buildings, and hospitality spaces. If your project is a standard office suite, our dedicated <a href=\"/office-painting\">office painting</a> page covers that setting specifically."
+      ]
+    },
+    {
+      "h2": "Containment, dust control, and protection",
+      "body": [
+        "Sanding and patching create fine dust that travels. Each work zone is closed off with plastic, and air scrubbers run where sanding is involved. Data cabling, computers, medical equipment, and display fixtures are covered or moved, and furniture layouts are photographed so everything goes back where it was. Larger wall repairs are handled through our <a href=\"/drywall-repair-patching\">drywall repair and patching</a> service as part of the same scope."
+      ],
+      "bullets": [
+        "Plastic containment around each active zone",
+        "Air scrubbers during sanding",
+        "Protection for cabling, electronics, and equipment",
+        "Furniture moved and reset to a photographed layout",
+        "Floors and walkways cleaned at the end of each shift"
+      ]
+    },
+    {
+      "h2": "Low-VOC coatings for sensitive spaces",
+      "body": [
+        "In medical, dental, and childcare settings, odor and air quality are part of the job spec. We use <strong>zero- and low-VOC product lines</strong> from Sherwin-Williams and Benjamin Moore that allow rooms to be used again quickly, and we include the product data sheets with the proposal so your compliance file is complete without a follow-up request.",
+        "Durability matters too. Exam rooms, corridors, and waiting areas take constant contact from carts, chairs, and cleaning. We specify scrubbable finishes in those areas so routine disinfecting does not burnish or wear through the paint. Door frames, corner guards, and handrails are finished in a hard enamel that holds up to daily contact."
+      ]
+    },
+    {
+      "h2": "Scheduling around your operations",
+      "body": [
+        "Most commercial interior work happens at night or on weekends. For businesses that run long hours, we break the building into zones and paint one at a time so the rest stays open. Keys, alarm codes, and access are confirmed in writing before the first shift. Before we leave each night, the crew lead checks that doors are locked, alarms are set, and anything we moved is back in place. If a room cannot be finished in one shift, it is left clean and usable, with no open cans, ladders, or wet edges in a space staff will walk into the next morning.",
+        "In multi-tenant buildings, we coordinate with property management on which suites are scheduled when, post notices in common areas, and keep corridors and restrooms usable. When a tenant moves out, a single suite can be turned quickly using the colors and products on record from earlier phases."
+      ]
+    },
+    {
+      "h2": "Facility-specific details we plan for",
+      "body": [
+        "Each type of commercial interior has its own quirks. In clinics and dental offices, exam rooms and sterilization areas may need to be finished and aired out on a tight turnaround so morning appointments go ahead. In childcare centers, low-odor products and full cleanup matter even more, and we plan around nap rooms and outdoor play spaces. In retail, fixtures and displays are moved, masked, and reset to the store's planogram. In hospitality spaces, guest corridors are done in short sections so rooms remain accessible.",
+        "Ceilings deserve their own note. Many commercial interiors have drop ceilings that should not be painted, open-structure ceilings that need spraying from a lift, or drywall soffits with water stains from old roof leaks. We note each one on the walkthrough and price it separately so you can decide what to include."
+      ]
+    },
+    {
+      "h2": "Paperwork and closeout",
+      "body": [
+        "The proposal lists surfaces, prep, products, coats, and a working schedule. We provide a certificate of insurance naming your entity before mobilization. At closeout, your facility contact walks the space with our crew lead and signs off on the punch list; anything not right is fixed first. Labelled touch-up paint stays on site for maintenance staff, along with a record of each color and sheen by area, so in-house staff or a future crew can keep walls looking consistent between repaints.",
+        "If the same building also needs work on schools or houses of worship, see <a href=\"/church-educational-facility-painting\">church and school painting</a>. Businesses in the county seat can find local details on our <a href=\"/gainesville-fl-commercial-painting\">Gainesville commercial painting</a> page."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you paint a medical or dental office without closing?",
+      "a": "Yes. We work after hours or in zones, use zero- and low-VOC coatings that allow quick re-occupancy, and reset each room before the next business day."
+    },
+    {
+      "q": "How do you control dust and odor in an occupied building?",
+      "a": "Work zones are closed off with plastic, air scrubbers run during sanding, and we use low-odor, low-VOC coatings. Floors are cleaned at the end of each shift."
+    },
+    {
+      "q": "Do you coordinate with multiple tenants?",
+      "a": "Yes. We work with property management on a suite-by-suite schedule, post notices, and keep shared areas usable throughout the job."
+    },
+    {
+      "q": "Can you provide product data sheets for our records?",
+      "a": "Yes. Product data sheets for the coatings specified are included with the proposal."
+    }
+  ],
+  "related": [
+    "/commercial-painting",
+    "/office-painting",
+    "/retail-restaurant-painting",
+    "/drywall-repair-patching",
+    "/church-educational-facility-painting",
+    "/gainesville-fl-commercial-painting"
+  ]
+}

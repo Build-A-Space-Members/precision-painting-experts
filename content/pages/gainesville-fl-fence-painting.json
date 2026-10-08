@@ -1,0 +1,52 @@
+{
+  "path": "/gainesville-fl-fence-painting",
+  "type": "cityService",
+  "title": "Fence Painting & Staining in Gainesville, FL",
+  "description": "Fence painting and staining in Gainesville, FL for wood privacy fences, picket fences, and vinyl. Washed, repaired, and coated on both sides. Free estimate.",
+  "h1": "Fence Painting & Staining in Gainesville, FL",
+  "heroIntro": "Wood privacy fences, painted pickets, and chalky vinyl panels, cleaned, repaired, and coated so the fence line looks finished and lasts.",
+  "keywords": {
+    "primary": "fence painting gainesville fl",
+    "secondary": ["fence staining gainesville", "wood fence stain gainesville fl", "vinyl fence painting gainesville", "privacy fence refinishing alachua county"],
+    "questions": ["Should I paint or stain my wood fence in Gainesville?", "Can vinyl fences be painted?", "Do you stain both sides of a privacy fence?"]
+  },
+  "sections": [
+    {
+      "h2": "Fence lines around Gainesville",
+      "body": [
+        "The fences we work on in Gainesville tend to follow the house. A picket fence in front of an older home in the Duckpond or Pleasant Street districts usually looks best painted to match the trim. A wood privacy fence behind a NW Gainesville bungalow, or around a yard in Westchester or Mile Run, is usually a candidate for stain. In newer developments like Haile Plantation and Town of Tioga, fence color and finish may be governed by community guidelines.",
+        "Whatever the style, a fence has no roof overhang and no gutter. It is wet from both sides, sprinkler heads hit the same boards daily, and the bottom few inches sit in damp mulch or grass."
+      ]
+    },
+    {
+      "h2": "Stain, seal, or paint?",
+      "body": [
+        "<strong>Penetrating stain</strong> is our default for wood fences because it soaks into the board and does not form a film that can peel. It can be transparent, semi-transparent, or solid. <strong>Paint</strong> makes sense on pickets and fences that are already painted, or where the fence needs to match house trim; we use 100% acrylic and prime bare wood first. <strong>Vinyl</strong> fences that have chalked or faded can be cleaned and coated with a product rated for vinyl, typically in a color no darker than the original to avoid heat distortion."
+      ]
+    },
+    {
+      "h2": "The fence process",
+      "bullets": [
+        "Wash and mildew treatment, with plantings protected",
+        "Loose pickets re-fastened; broken boards replaced and hardware fixed",
+        "Gray, sun-damaged fibers sanded or brightened so stain can penetrate",
+        "<strong>Sprayed and back-brushed</strong> for even coverage on rough-sawn wood",
+        "Both sides coated when access allows and you approve it"
+      ]
+    },
+    {
+      "h2": "Neighbors, access, and HOA rules",
+      "body": [
+        "The far side of a shared fence belongs to the neighbor's yard. We note which sides are included on the estimate, and if both are, you coordinate access with your neighbor before the crew arrives. If your community controls fence colors, we can match an approved color and provide a drawdown for the approval file.",
+        "Sun-bleached wood has its own problems; our guide on <a href=\"/treat-sun-damaged-wood-fence-alachua\">treating sun-damaged fences in Alachua County</a> covers the fixes. Decks usually weather at the same pace, so ask about combining this with <a href=\"/gainesville-fl-deck-staining\">deck staining in Gainesville</a>, or start with a <a href=\"/gainesville-fl-pressure-washing\">Gainesville soft wash</a> if the fence is green with algae. Product details live on our <a href=\"/deck-fence-staining-florida\">Florida deck and fence staining</a> page, and the <a href=\"/locations/alachua-county/gainesville\">Gainesville hub</a> lists every service we offer in the city."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "How long does fence staining take?", "a": "Most residential fences are washed one day and stained once the wood is dry. Length, height, and repairs set the final schedule shown on the estimate." },
+    { "q": "Will stain cover new boards mixed with old gray ones?", "a": "Transparent stain will show the difference. Semi-transparent or solid stain blends replacement boards much better." },
+    { "q": "Can you paint a vinyl fence a darker color?", "a": "Dark colors on vinyl absorb heat and can warp the panels, so we generally recommend staying at or lighter than the original color." },
+    { "q": "Do you work on chain-link or metal fences?", "a": "Metal railings and gates can be painted with an appropriate enamel system. Ask the crew lead during the walkthrough." }
+  ],
+  "related": ["/deck-fence-staining-florida", "/locations/alachua-county/gainesville", "/gainesville-fl-deck-staining", "/treat-sun-damaged-wood-fence-alachua", "/wood-staining-finishing"]
+}

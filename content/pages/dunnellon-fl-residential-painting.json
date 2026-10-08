@@ -1,0 +1,86 @@
+{
+  "path": "/dunnellon-fl-residential-painting",
+  "type": "cityService",
+  "title": "Residential Painting in Dunnellon, FL | House Painters",
+  "description": "Residential painting in Dunnellon, FL for Cracker homes, Rainbow Springs houses, and Rio Vista properties. Inside and out, own crews, free written estimate.",
+  "h1": "Residential Painting in Dunnellon, FL",
+  "heroIntro": "From porch-wrapped Cracker houses downtown to stucco homes in Rainbow Lake Estates, we plan each repaint around the house's materials and the way your family uses it.",
+  "keywords": {
+    "primary": "residential painting dunnellon fl",
+    "secondary": [
+      "house painting dunnellon fl",
+      "home painters dunnellon florida",
+      "cracker house painting dunnellon",
+      "rainbow springs house painting"
+    ],
+    "questions": [
+      "How do you paint a historic Cracker home in Dunnellon?",
+      "Can you paint the inside and outside of my house in one project?",
+      "What warranty comes with residential painting?"
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Three kinds of Dunnellon homes, three approaches",
+      "body": [
+        "<strong>Residential painting in Dunnellon, FL</strong> starts with knowing what you are painting. Broadly, we see three groups of homes here, and each gets its own prep plan. Our <a href=\"/locations/marion-county/dunnellon\">Dunnellon painting contractor page</a> covers the town in more depth."
+      ],
+      "bullets": [
+        "Historic Downtown: wood-framed Florida Cracker homes with board siding, porches, and many old paint layers",
+        "Rainbow Springs and Rio Vista: a mix of siding, stucco, and block, often with shaded lots near the water",
+        "Rainbow Lake Estates and Rolling Hills: more stucco and block construction, where hairline cracks and faded builder finishes are common"
+      ]
+    },
+    {
+      "h2": "Historic wood homes",
+      "body": [
+        "Old wood siding needs to breathe. We scrape loose paint back to a firm edge, sand transitions smooth, and spot-prime bare wood, then apply a premium acrylic that flexes and lets vapor escape. Porch decks, posts, and rails take the most punishment and often get a harder enamel. Rotted boards, sill ends, and fascia are cut out and replaced. For period-appropriate palettes, see our <a href=\"/gainesville-historic-paint-colors\">guide to historic house colors</a>."
+      ]
+    },
+    {
+      "h2": "Stucco and block homes",
+      "body": [
+        "Masonry homes in the outer neighborhoods fail differently. Hairline cracks open up, mildew settles into texture on shaded walls, and the original paint chalks. We wash and treat mildew, repair cracks, and use an <strong>elastomeric coating</strong> where the stucco shows movement, since it bridges small cracks rather than splitting with them. Our <a href=\"/hide-stucco-cracks-guide\">stucco crack guide</a> explains which cracks are cosmetic."
+      ]
+    },
+    {
+      "h2": "Shaded lots near the water",
+      "body": [
+        "Homes in Rainbow Springs and Rio Vista often sit under mature trees, which keeps them cooler but also keeps the siding damp. Before any coat goes on, those walls are soft-washed and treated for mildew, then given time to dry fully, confirmed with a moisture meter rather than guessed. Gutters that overflow onto the same corner every storm get flagged on the estimate, since a repaint will not survive water sheeting down the wall."
+      ]
+    },
+    {
+      "h2": "Planning a whole-house project",
+      "body": [
+        "Many Dunnellon owners do the outside and inside in one season. We put the <a href=\"/dunnellon-fl-exterior-painting\">exterior portion</a> in the October-to-May window when possible and schedule the interior around it. You stay home throughout; crews move and protect furniture and work room by room. If the inside is the bigger job, see our page on <a href=\"/interior-painting-dunnellon-fl-interior-house-painting\">interior house painting in Dunnellon</a>."
+      ]
+    },
+    {
+      "h2": "Your estimate, your warranty",
+      "body": [
+        "The written estimate lists included and excluded surfaces, prep, products, coats, and schedule. Exterior work carries a written workmanship warranty of up to 10 years on top of the manufacturer warranty, and a labelled supply of touch-up paint stays with you. More on our approach is on the main <a href=\"/residential-painting\">residential painting page</a>."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do historic homes cost more to paint?",
+      "a": "They usually need more prep time for scraping, sanding, carpentry, and priming. That time is itemized on the estimate so you can see exactly where it goes."
+    },
+    {
+      "q": "How long does a full exterior take?",
+      "a": "Plan on roughly three to seven working days of painting, with washing and drying added on top. Historic homes with heavy carpentry run toward the long end."
+    },
+    {
+      "q": "Can you match the existing color on my house?",
+      "a": "Yes. Bring us a chip, a sample board, or the old can and we will match it, then roll out a large drawdown so you can confirm it on the house."
+    }
+  ],
+  "related": [
+    "/residential-painting",
+    "/locations/marion-county/dunnellon",
+    "/dunnellon-fl-exterior-painting",
+    "/interior-painting-dunnellon-fl-interior-house-painting",
+    "/gainesville-historic-paint-colors"
+  ]
+}
