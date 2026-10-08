@@ -85,11 +85,11 @@ structured data, but they returned 404). Trailing-slash and `.html` variants 301
 | /florida-painters-suwannee-sunshine-services | https://precisionpaintexperts.com/florida-painters-suwannee-sunshine-services | compare | 200, indexable | Suwannee Sunshine Services vs. Precision Paint Experts |
 | /florida-painters-tri-city-painting | https://precisionpaintexperts.com/florida-painters-tri-city-painting | compare | 200, indexable | Tri-City Painting Alternative: Warranty & Upkeep |
 | /residential-painting | https://precisionpaintexperts.com/residential-painting | service | 200, indexable | Residential Painting Contractor \| North Central FL |
-| /interior-painting | https://precisionpaintexperts.com/interior-painting | service | 200, indexable | Interior Painting in Gainesville, FL \| Walls & Ceilings |
+| /interior-painting | https://precisionpaintexperts.com/interior-painting | service | 200, indexable | Interior Painting in Gainesville & Ocala, FL |
 | /exterior-painting | https://precisionpaintexperts.com/exterior-painting | service | 200, indexable | Exterior House Painting in North Central Florida |
 | /commercial-painting | https://precisionpaintexperts.com/commercial-painting | service | 200, indexable | Commercial Painting Contractor in Gainesville & Ocala |
 | /cabinet-painting-refinishing | https://precisionpaintexperts.com/cabinet-painting-refinishing | service | 200, indexable | Kitchen Cabinet Painting in Gainesville & Ocala, FL |
-| /pressure-washing | https://precisionpaintexperts.com/pressure-washing | service | 200, indexable | Pressure Washing & Soft Washing in Gainesville, FL |
+| /pressure-washing | https://precisionpaintexperts.com/pressure-washing | service | 200, indexable | Pressure & Soft Washing \| North Central Florida |
 | /deck-fence-staining | https://precisionpaintexperts.com/deck-fence-staining | service | 200, indexable | Deck & Fence Staining in Gainesville & Ocala, FL |
 | /deck-fence-staining-florida | https://precisionpaintexperts.com/deck-fence-staining-florida | service | 200, indexable | Best Deck & Fence Stain Systems for Florida Weather |
 | /color-consultation | https://precisionpaintexperts.com/color-consultation | service | 200, indexable | Paint Color Consultation in Gainesville & Ocala, FL |
